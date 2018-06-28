@@ -60,6 +60,11 @@ main h3 {
     
     text-align: center;
 }
+main > ul,
+main > p {
+    margin-left: 8%;
+    margin-right: 8%;
+}
 
 
 /* footer */
@@ -71,6 +76,7 @@ footer {
 
 
 /* profile */
+
 div {
     width: 100%;
     text-align: center;
@@ -118,3 +124,32 @@ div {
     line-height: 1.5;
 }
 
+
+/* event */
+
+ul.event {
+    width: 15em;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul.event + p {
+    text-align: center;
+    color: hsl(0, 0%, 60%);
+}
+
+.register {
+    text-align: center;
+    margin: 2em auto;
+}
+.register a {
+    font-size: 120%;
+    letter-spacing: 0.2em;
+    line-height: 1;
+    
+    display: inline-block;
+    border: 2px solid hsl(192, 80%, 50%);
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 1.2em;
+    padding: 0.6em 1em;
+}
