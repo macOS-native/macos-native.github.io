@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+<header>
+    <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+</header>
+
+
+<main>
+{{ content }}
+</main>
+
+
+<footer>
+    <p>This site is hosted on GitHub Pages and maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+</footer>
+</body>
+</html>

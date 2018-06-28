@@ -1,10 +1,4 @@
 title: macOS native
 description: 高品質なmacOSネイティブアプリケーション開発を志し、その技術と知見を共有するためのイベントです。
 github_username: macOS-native
-
-theme: jekyll-theme-cayman
-plugins: 
-  - jekyll-github-metadata
-# ---- fixed github metadata authentication bug ----
-github : [metadata]
-repository: macOS-native/macos-native.github.io
+lang: ja

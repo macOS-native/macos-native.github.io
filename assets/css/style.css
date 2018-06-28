@@ -1,0 +1,69 @@
+
+body {
+    font-family: -apple-system, sans-serif;
+    color: hsl(0, 0%, 10%);
+    background: hsl(0, 0%, 98%);
+    margin: 0;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: hsl(192, 80%, 50%);
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* header */
+
+header {
+    background: linear-gradient(hsl(186, 80%, 50%), hsl(201, 80%, 50%));
+    color: hsla(0, 0%, 100%, 0.9);
+    
+    text-align: center;
+    padding: 2em 2em;
+    margin: 0;
+}
+header h1 {
+    font: 500 64px/1.0 -apple-system, sans-serif;
+    color: inherit;
+}
+header h1 a {
+    color: inherit !important;
+}
+header p {
+    font-size: 150%;
+    font-style: italic;
+}
+
+
+/* body */
+
+main {
+    line-height: 1.4;
+    padding: 1em 10%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+main h2 {
+    font-size:160%;
+    font-weight: 300;
+    color: hsla(0, 0%, 0%, 0.5);
+    
+    text-align: center;
+    margin-top: 2em;
+}
+
+main h3 {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+
+
+/* footer */
+
+footer {
+    text-align: center;
+    font-size: 90%;
+}
