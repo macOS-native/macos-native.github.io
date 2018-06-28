@@ -1,3 +1,8 @@
+---
+layout: default
+title: macOS native
+---
+
 # macOS native
 
 高品質なmacOSネイティブアプリケーション開発を志し、その技術と知見を共有するためのイベントです。
