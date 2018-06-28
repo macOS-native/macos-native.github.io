@@ -2,7 +2,7 @@
 body {
     font-family: -apple-system, sans-serif;
     color: hsl(0, 0%, 10%);
-    background: hsl(0, 0%, 98%);
+    background: hsl(0, 0%, 96%);
     margin: 0;
 }
 
@@ -42,7 +42,7 @@ header p {
 /* body */
 
 main {
-    line-height: 1.4;
+    line-height: 1.6;
     padding: 1em 10%;
     max-width: 600px;
     margin: 0 auto;
