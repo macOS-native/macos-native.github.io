@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+plugins: 
+  - jekyll-github-metadata
+# ---- fixed github metadata authentication bug ----
+github : [metadata]
+repository: macOS-native/macos-native.github.io
