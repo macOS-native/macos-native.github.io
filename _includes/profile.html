@@ -1,0 +1,13 @@
+{% assign person = site.data.members[include.param] %}
+
+<section class="profile">
+<h4>{{ person.name }}</h4>
+
+<img class="avatar" src="assets/img/avatars/{{ include.param }}.png"/>
+<ul class="link">
+    <li><a href="{{ person.web }}">web</a></li>
+    <li><a href="https://twitter.com/{{ person.twitter }}">twitter</a></li>
+    <li><a href="https://github.com/{{ person.github }}">github</a></li>
+</ul>
+<p>{{ person.bio | markdownify }}</p>
+</section>

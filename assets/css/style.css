@@ -39,12 +39,12 @@ header p {
 }
 
 
-/* body */
+/* main */
 
 main {
     line-height: 1.6;
-    padding: 1em 10%;
-    max-width: 600px;
+    padding: 1em 5%;
+    max-width: 720px;
     margin: 0 auto;
 }
 main h2 {
@@ -55,9 +55,10 @@ main h2 {
     text-align: center;
     margin-top: 2em;
 }
-
 main h3 {
     color: hsla(0, 0%, 0%, 0.5);
+    
+    text-align: center;
 }
 
 
@@ -67,3 +68,53 @@ footer {
     text-align: center;
     font-size: 90%;
 }
+
+
+/* profile */
+div {
+    width: 100%;
+    text-align: center;
+}
+.profile {
+    text-align: left;
+    width: 30%;
+    position: relative;
+    display: inline-block;
+    padding: 0 1%;
+    margin: 0 auto;
+}
+.profile h4 {
+    font-weight: 400;
+    font-size: 120%;
+    letter-spacing: 0.05em;
+    
+    position: absolute;
+    top: 10px;
+    left: 80px;
+    margin: 0;
+}
+.profile img.avatar {
+    width: 64px;
+    border-radius: 50%;
+}
+.profile ul.link {
+    font-size: 84%;
+    
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 44px;
+    left: 72px;
+}
+.profile ul.link li {
+    display: inline;
+    margin: 0 0.1em;
+}
+.profile p {
+    font-size: 90%;
+    text-indent: 1em;
+    text-align: justify;
+    line-height: 1.5;
+}
+

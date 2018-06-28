@@ -33,15 +33,22 @@ title: macOS native
 - 開発を行わないmacOSユーザでアプリケーション開発の話題に興味がある人
 
 
+
 ## 主催者
 
-- 主催
-    - [1024jp](http://wolfrosch.com)
-- コアメンバー
-    - [usagimaru](https://interactionmania.com)
-    - [貫井伸隆](http://nobtaka.com)
-    - [ずむ](https://zumuya.com)
+### 主催
 
+<div>
+{% include profile.html param="1024jp" %}
+</div>
+
+### コアメンバー
+
+<div>
+{% include profile.html param="nobtaka" %}
+{% include profile.html param="usagimaru" %}
+{% include profile.html param="zumuya" %}
+</div>
 
 
 ## Symposium #01
