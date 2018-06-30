@@ -10,7 +10,7 @@ usagimaru:
   github: usagimaru
   twitter: usagimaruma
   web: https://interactionmania.com
-  bio: インターフェイス設計士 / Cocoa ネイティブアプリ原理主義者。インターフェイス設計、インタラクション設計、macOS から iOS、Sketch Plugin まで手がけます。
+  bio: インターフェイス設計士 / Cocoaネイティブアプリ原理主義者。インターフェイス設計、インタラクション設計、macOSからiOS、Sketch Pluginまで手がけます。
 
 nobtaka:
   name: 貫井伸隆
@@ -24,4 +24,4 @@ zumuya:
   github: zumuya
   twitter: dy4_268
   web: https://zumuya.com
-  bio: Web サイト“ずむ屋”を運営する人。「NSUndoManager でヒストリーパネルを表示する SIMBL プラグイン」など、ちょっと変なアイデアを思いついては形にしてきた。モバイルよりもデスクトップの開発が好きで WPF と AppKit を往復する日々。
+  bio: Webサイト“ずむ屋”を運営する人。「NSUndoManagerでヒストリーパネルを表示するSIMBLプラグイン」など、ちょっと変なアイデアを思いついては形にしてきた。モバイルよりもデスクトップの開発が好きでWPFとAppKitを往復する日々。
