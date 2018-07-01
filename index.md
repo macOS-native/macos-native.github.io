@@ -55,16 +55,8 @@ title: macOS native
 
 - 日時: 2018年 8月 29日 (水)
 - 場所: 都内 (未定)
-- 第1部 🗣 トーク 18:30-21:00
-    - 登壇者
-        - [1024jp](http://wolfrosch.com)
-        - [usagimaru](https://interactionmania.com)
-        - [貫井伸隆](http://nobtaka.com)
-- 第2部 🍻 懇親会 21:00〜
+- 参加費: 1,000 円
 {:.event}
 
-＊ 詳細は後日発表されます。
 
-
-[参加エントリー](https://macos-native.connpass.com/event/93015/)
-{:.register}
+{% include event.html param="symposium_01" %}

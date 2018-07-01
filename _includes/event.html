@@ -1,0 +1,28 @@
+{% assign event = site.data.events[include.param] %}
+
+<table class="timetable">
+{% for item in event.timetable %}
+  <tr>
+    <td><time>{{ item.time }}</time></td>
+    
+    <td>
+    {% if item.presenter %}
+    <strong>{{ item.title }}</strong><br>
+    <span>
+      <img class="avatar" src="assets/img/avatars/{{ item.presenter.avatar }}.png"/>
+      {{ item.presenter.name }}
+    </span>
+    {% else %}
+    
+    {{ item.title }}
+    {% endif %}
+    
+    {% if item.description %}
+    <p class="description">{{ item.description }}</p>
+    {% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
+<p class="register"><a href="{{ event.entry_url }}" rel="external">参加エントリー</a></p>
