@@ -16,7 +16,7 @@ symposium_01:
         name: usagimaru
         avatar: usagimaru
       description: |
-        coming soon.
+        macOSとiOSを比較しながら、Macのインターフェイスを介して起こるインタラクションについて考察します。
     - time: "19:30"
       title: "under consideration"
       presenter:
