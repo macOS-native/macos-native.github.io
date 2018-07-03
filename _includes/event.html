@@ -1,5 +1,13 @@
 {% assign event = site.data.events[include.param] %}
 
+<h3>{{ event.title }}</h3>
+
+<ul class="event">
+  <li>日時: {{ event.date | date: "%Y年 %-m月 %-d日 (%a)" }}</li>
+  <li>場所: {{ event.location }}</li>
+  <li>参加費: {{ event.fee }}</li>
+</ul>
+
 <table class="timetable">
 {% for item in event.timetable %}
   <tr>

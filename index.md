@@ -34,12 +34,7 @@ title: macOS native
 
 
 
-## Symposium #01
-
-- 日時: 2018年 8月 29日 (水)
-- 場所: 都内 (未定)
-- 参加費: 1,000 円
-{:.event}
+## イベント
 
 {% include event.html param="symposium_01" %}
 

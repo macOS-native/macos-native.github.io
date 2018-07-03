@@ -2,8 +2,8 @@ symposium_01:
   title: "Symposium #01"
   date: 2018-08-29
   location: 都内 (選定中)
-  fee: 1000
-  time: "18:45"
+  fee: "1,000 円"
+  time: "18:30"
   entry_url: https://macos-native.connpass.com/event/93015/
   timetable:
     - time: "18:15"
