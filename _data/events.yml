@@ -6,34 +6,34 @@ symposium_01:
   time: "18:45"
   entry_url: https://macos-native.connpass.com/event/93015/
   timetable:
-    - time: "18:30"
+    - time: "18:15"
       title: "開場"
-    - time: "18:45"
+    - time: "18:30"
       title: "オープニング"
-    - time: "19:00"
+    - time: "18:45"
       title: "under consideration"
       presenter:
         name: usagimaru
         avatar: usagimaru
       description: |
         macOSとiOSを比較しながら、Macのインターフェイスを介して起こるインタラクションについて考察します。
-    - time: "19:30"
+    - time: "19:15"
       title: "under consideration"
       presenter:
         name: 貫井伸隆
         avatar: nobtaka
       description: |
         coming soon.
-    - time: "20:00"
+    - time: "19:45"
       title: "休憩"
-    - time: "20:10"
+    - time: "20:00"
       title: "ウインドウツールバーとそのアイコンについて (仮"
       presenter:
         name: 1024jp
         avatar: 1024jp
       description: |
         macOSアプリケーションのウインドウ上部に並ぶツールバーボタンは、macOSらしさを特徴付けています。ツールバーアイコンの歴史的変遷や用途によるデザインの違いを考察しながら、現在の最新システムにおけるネイティブらしいツールバーの実装方法をさぐります。
-    - time: "20:40"
+    - time: "20:30"
       title: "クロージング"
-    - time: "20:50"
+    - time: "20:45"
       title: "解散"
