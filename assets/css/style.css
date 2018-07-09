@@ -37,10 +37,7 @@ header h1 {
 header h1 a {
     color: inherit !important;
 }
-header p {
-    font-size: 150%;
-    font-style: italic;
-}
+
 
 
 /* main */
@@ -57,7 +54,7 @@ main h2 {
     color: hsla(0, 0%, 0%, 0.5);
     
     text-align: center;
-    margin-top: 2em;
+    margin-top: 4em;
 }
 main h3 {
     color: hsla(0, 0%, 0%, 0.5);
@@ -76,7 +73,28 @@ main > p {
 footer {
     text-align: center;
     font-size: 90%;
+    margin-top: 6em;
 }
+
+
+
+/* ------------------------ */
+
+p.tagline {
+    font-size: 150%;
+    font-style: italic;
+    color: hsl(196, 75%, 25%);
+    text-align: center;
+}
+p.tagline em {
+    font-size: 114%;
+    font-weight: 600;
+    padding: 0.1em;
+}
+p.tagline + h2 {
+    margin-top: 2em;
+}
+
 
 
 /* profile */

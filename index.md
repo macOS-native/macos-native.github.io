@@ -3,6 +3,11 @@ layout: default
 title: macOS native
 ---
 
+*macOS native*は<br>
+高品質なmacOSネイティブアプリケーション開発を志し、<br>
+その技術と知見を共有するためのコミュニティです。
+{:.tagline}
+
 
 ## 対象
 
