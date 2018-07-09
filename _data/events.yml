@@ -1,7 +1,11 @@
 symposium_01:
   title: "Symposium #01"
   date: 2018-08-29 18:30:00+09:00
-  location: 都内 (選定中)
+  location:
+    name: アーツ千代田 3331
+    room: 1F コミュニティスペース
+    web: https://3331.jp
+    map: http://maps.apple.com/?t=r&q=3331+Arts+Chiyoda&sll=36.5626,136.362305&z=10
   fee: "1,000 円"
   entry_url: https://macos-native.connpass.com/event/93015/
   timetable:

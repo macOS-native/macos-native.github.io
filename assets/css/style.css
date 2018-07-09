@@ -86,7 +86,7 @@ div.member {
     justify-content: center;
 }
 .profile {
-    width: 50%;
+    width: 40%;
     margin: 0 2%;
     position: relative;
 }
@@ -133,11 +133,38 @@ div.member {
 
 /* event */
 
+.event dl.info {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+.event dl.info dt {
+    margin-bottom: 0.2em;
+    color: hsl(0, 0%, 50%);
+    float: left;
+    width: 4em;
+    text-align: right;
+}
+.event dl.info dd {
+    margin-bottom: 0.2em;
+    margin-left: 4.8em;
+}
+.event dl.info dd:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
 table.timetable {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     line-height: 1.5;
+}
+table.timetable caption {
+    text-align: left;
+    font-weight: 500;
+    padding: 0.2em;
 }
 table.timetable tr {
     border-top:    0.5px solid hsla(0, 0%, 0%, 0.6);
@@ -164,16 +191,6 @@ table.timetable p.description {
     font-size: 90%;
     text-indent: 1em;
     margin: 0;
-}
-
-ul.event {
-    width: 15em;
-    margin-left: auto;
-    margin-right: auto;
-}
-ul.event + p {
-    text-align: center;
-    color: hsl(0, 0%, 60%);
 }
 
 .register {
