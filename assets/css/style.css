@@ -9,7 +9,7 @@ body {
 a:link,
 a:visited {
     text-decoration: none;
-    color: hsl(192, 80%, 50%);
+    color: hsl(192, 90%, 40%);
 }
 a:hover {
     text-decoration: underline;
@@ -221,7 +221,7 @@ table.timetable p.description {
     line-height: 1;
     
     display: inline-block;
-    border: 2px solid hsl(192, 80%, 50%);
+    border: 2px solid hsl(192, 90%, 40%);
     margin-left: auto !important;
     margin-right: auto !important;
     border-radius: 1.2em;
