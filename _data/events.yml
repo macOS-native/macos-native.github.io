@@ -17,7 +17,7 @@ symposium_01:
       description: |
         macOSとiOSを比較しながら、Macのインターフェイスを介して起こるインタラクションについて考察します。
     - time: "19:15"
-      title: "under consideration"
+      title: "アプリケーションアイコンについて (仮"
       presenter:
         name: 貫井伸隆
         avatar: nobtaka
@@ -26,7 +26,7 @@ symposium_01:
     - time: "19:45"
       title: "休憩"
     - time: "20:00"
-      title: "ウインドウツールバーとそのアイコンについて (仮"
+      title: "ウインドウツールバーとその実装"
       presenter:
         name: 1024jp
         avatar: 1024jp
