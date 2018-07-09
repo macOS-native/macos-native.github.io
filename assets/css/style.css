@@ -81,18 +81,14 @@ footer {
 
 /* profile */
 
-div {
-    width: 100%;
-    text-align: center;
+div.member {
+    display: flex;
+    justify-content: center;
 }
 .profile {
-    text-align: left;
-    width: 30%;
+    width: 50%;
+    margin: 0 2%;
     position: relative;
-    display: inline-block;
-    vertical-align: top;
-    padding: 0 1%;
-    margin: 0 auto;
 }
 .profile h4 {
     font-weight: 400;

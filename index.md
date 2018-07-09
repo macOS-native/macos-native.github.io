@@ -44,13 +44,13 @@ title: macOS native
 
 ### 主催
 
-<div>
+<div class="member">
 {% include profile.html param="1024jp" %}
 </div>
 
 ### コアメンバー
 
-<div>
+<div class="member">
 {% include profile.html param="nobtaka" %}
 {% include profile.html param="usagimaru" %}
 {% include profile.html param="zumuya" %}
