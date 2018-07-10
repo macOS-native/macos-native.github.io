@@ -9,6 +9,12 @@ title: macOS native
 {:.tagline}
 
 
+
+## イベント
+
+{% include event.html param="symposium_01" %}
+
+
 ## 対象
 
 ### 扱う話題
@@ -36,12 +42,6 @@ title: macOS native
 - macOSネイティブアプリケーションを業務・趣味で開発している人
 - macOSネイティブアプリケーション開発に興味がある人
 - 開発を行わないmacOSユーザでアプリケーション開発の話題に興味がある人
-
-
-
-## イベント
-
-{% include event.html param="symposium_01" %}
 
 
 
