@@ -30,7 +30,7 @@ symposium_01:
     - time: "19:45"
       title: "休憩"
     - time: "20:00"
-      title: "ウインドウツールバーとその実装"
+      title: "ツールバーアイコンとその実装"
       presenter:
         name: 1024jp
         avatar: 1024jp
