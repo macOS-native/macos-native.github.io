@@ -21,7 +21,7 @@ symposium_01:
       description: |
         macOSとiOSを比較しながら、Macのインターフェイスを介して起こるインタラクションについて考察します。
     - time: "19:15"
-      title: "アプリケーションアイコンについて (仮"
+      title: "App Icon –デザインと観察"
       presenter:
         name: 貫井伸隆
         avatar: nobtaka
