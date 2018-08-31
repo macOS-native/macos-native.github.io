@@ -20,6 +20,7 @@ symposium_01:
         avatar: usagimaru
       description: |
         macOSとiOSを比較しながら、Macのインターフェイスを介して起こるインタラクションについて考察します。
+      slide: https://speakerdeck.com/usagimaru/designing-desktop-interactions
     - time: "19:15"
       title: "App Icon –デザインと観察"
       presenter:
@@ -27,6 +28,7 @@ symposium_01:
         avatar: nobtaka
       description: |
         coming soon.
+      slide: https://speakerdeck.com/nobtaka/app-icon-dezaintoguan-cha
     - time: "19:45"
       title: "休憩"
     - time: "20:00"
@@ -36,6 +38,7 @@ symposium_01:
         avatar: 1024jp
       description: |
         macOSアプリケーションのウインドウ上部に並ぶツールバーボタンは、macOSらしさを特徴付けています。ツールバーアイコンの歴史的変遷や用途によるデザインの違いを考察しながら、現在の最新システムにおけるネイティブらしいツールバーの実装方法をさぐります。
+      slide: https://speakerdeck.com/1024jp/toolbar-icons-on-macos
     - time: "20:30"
       title: "クロージング"
     - time: "20:45"
