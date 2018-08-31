@@ -38,6 +38,10 @@
     {% if item.description %}
     <p class="description">{{ item.description }}</p>
     {% endif %}
+    
+    {% if item.slide %}
+    <a href="{{ item.slide }}" rel="external">slide</a>
+    {% endif %}
     </td>
   </tr>
   {% endfor %}
