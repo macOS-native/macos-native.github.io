@@ -5,9 +5,9 @@
 
 <img class="avatar" src="assets/img/avatars/{{ include.param }}.png"/>
 <ul class="link">
-    <li><a href="{{ person.web }}">web</a></li>
-    <li><a href="https://twitter.com/{{ person.twitter }}">twitter</a></li>
-    <li><a href="https://github.com/{{ person.github }}">github</a></li>
+    {% if person.web %}<li><a href="{{ person.web }}">web</a></li>{% endif %}
+    {% if person.twitter %}<li><a href="https://twitter.com/{{ person.twitter }}">twitter</a></li>{% endif %}
+    {% if person.github %}<li><a href="https://github.com/{{ person.github }}">github</a></li>{% endif %}
 </ul>
 <p>{{ person.bio | markdownify }}</p>
 </section>

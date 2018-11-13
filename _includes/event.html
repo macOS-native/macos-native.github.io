@@ -1,4 +1,4 @@
-{% assign event = site.data.events[include.param] %}
+{% assign event = site.data.events[include.event] %}
 
 <div class="event">
 <h3>{{ event.title }}</h3>
@@ -8,7 +8,7 @@
   <dd>{{ event.date | date: "%Y年 %-m月 %-d日 (%a) %H:%M" }}</dd>
   <dt>場所</dt>
   <dd>
-    <a href="{{ event.location.web }}">{{ event.location.name }}</a> {{ event.location.room }}
+    <a{% if event.location.web %} href="{{ event.location.web }}"{% endif %}>{{ event.location.name }}</a> {{ event.location.room }}
     {% if event.location.map %}
     <span class="map">(<a href="{{event.location.map}}">map</a>)</span>
     {% endif %}
@@ -47,6 +47,8 @@
   {% endfor %}
 </table>
 
+{% if include.entry_link %}
 <p class="register"><a href="{{ event.entry_url }}" rel="external">参加エントリー</a></p>
+{% endif %}
 
 </div>
