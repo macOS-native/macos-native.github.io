@@ -12,7 +12,14 @@ title: macOS native
 
 ## イベント
 
-{% include event.html param="symposium_01" %}
+{% include event.html event="symposium_02" entry_link=true %}
+
+### 登壇者
+
+<div class="member">
+{% include profile.html param="1024jp" %}
+{% include profile.html param="tsawada2" %}
+</div>
 
 
 ## 対象
@@ -60,3 +67,9 @@ title: macOS native
 {% include profile.html param="usagimaru" %}
 {% include profile.html param="zumuya" %}
 </div>
+
+
+
+## バックナンバー
+
+{% include event.html event="symposium_01" %}

@@ -1,3 +1,40 @@
+symposium_02:
+  title: "Symposium #02"
+  date: 2018-12-22 15:00:00+09:00
+  location:
+    name: 都内（選定中）
+  fee: "1,500 円"
+  entry_url: https://macos-native.connpass.com/event/107733/
+  timetable:
+    - time: "15:00"
+      title: "開場"
+    - time: "15:15"
+      title: "オープニング"
+    - time: "15:30"
+      title: "環境設定の作法 (仮"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: |
+        macOSアプリケーションにおけるお行儀の良い環境設定の作り方、またUserDefaultsの取り回しについてお話しします。
+    - time: "16:00"
+      title: "未定"
+      presenter:
+        name: tsawada2
+        avatar: tsawada2
+      description: |
+        coming soon.
+    - time: "16:30"
+      title: "休憩"
+    - time: "16:45"
+      title: "発表 1-3題"
+      description: |
+        登壇者募集中
+    - time: "17:45"
+      title: "解散"
+    - time: "18:00"
+      title: "(🍻)"
+
 symposium_01:
   title: "Symposium #01"
   date: 2018-08-29 18:30:00+09:00

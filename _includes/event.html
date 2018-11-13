@@ -1,4 +1,4 @@
-{% assign event = site.data.events[include.param] %}
+{% assign event = site.data.events[include.event] %}
 
 <div class="event">
 <h3>{{ event.title }}</h3>
@@ -47,6 +47,8 @@
   {% endfor %}
 </table>
 
+{% if include.entry_link %}
 <p class="register"><a href="{{ event.entry_url }}" rel="external">参加エントリー</a></p>
+{% endif %}
 
 </div>
