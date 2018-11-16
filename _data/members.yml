@@ -31,3 +31,10 @@ tsawada2:
   github: tsawada2
   twitter: tsawada2
   bio: macOS専用の５ちゃんねるブラウザ"[BathyScaphe](https://bathyscaphe.bitbucket.io)"プロジェクト管理者。２ちゃんねる（当時）をキッカケにCocoaとObjective-Cの世界に飛び込んでから、はや15年近く経ってしまった。漢字Talk 7からのMacユーザでありHyperCardで遊んだ世代だが、設定上は女子校生らしい。
+
+tamadeveloper:
+  name: tamadeveloper
+  github: kazushi-oenoki
+  twitter: tamadeveloper
+  web: https://tamablog.firstseed.io
+  bio: Mac/iOS用カレンダーアプリ[FirstSeed Calendar](https://firstseed.io/jp/)の開発者。多摩川とSwiftが好き。[iOS 12 Programming](https://peaks.cc/iOS12 )の共著者。iOS本であるにも関わらずmacOSの章を担当し、MojaveのダークモードやUIKit for Macについて解説。最近はWatchアプリ開発にもはまっている。

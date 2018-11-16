@@ -27,10 +27,15 @@ symposium_02:
     - time: "16:30"
       title: "休憩"
     - time: "16:45"
-      title: "発表 1-3題"
+      title: "未定"
+      presenter:
+        name: tamadeveloper
+        avatar: tamadeveloper
       description: |
-        登壇者募集中
-    - time: "17:45"
+        coming soon.
+    - time: "76:15"
+      title: "調整中"
+    - time: "17:55"
       title: "解散"
     - time: "18:00"
       title: "(🍻)"
