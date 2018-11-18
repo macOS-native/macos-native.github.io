@@ -17,24 +17,20 @@ symposium_02:
         avatar: 1024jp
       description: |
         macOSアプリケーションにおけるお行儀の良い環境設定の作り方、またUserDefaultsの取り回しについてお話しします。
-    - time: "16:00"
+    - time:
       title: "未定"
       presenter:
         name: tsawada2
         avatar: tsawada2
       description: |
         coming soon.
-    - time: "16:30"
-      title: "休憩"
-    - time: "16:45"
+    - time:
       title: "未定"
       presenter:
         name: tamadeveloper
         avatar: tamadeveloper
       description: |
         coming soon.
-    - time: "76:15"
-      title: "調整中"
     - time: "17:55"
       title: "解散"
     - time: "18:00"
