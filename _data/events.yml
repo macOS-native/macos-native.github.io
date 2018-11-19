@@ -2,7 +2,10 @@ symposium_02:
   title: "Symposium #02"
   date: 2018-12-22 15:00:00+09:00
   location:
-    name: 都内（選定中）
+    name: POINT EDGE ShibuyaBASE
+    address: 渋谷区渋谷2-22-6 10F
+    room: イベントスペース
+    web: http://pointedge.work/shibuya/
   fee: "1,500 円"
   entry_url: https://macos-native.connpass.com/event/107733/
   timetable:
