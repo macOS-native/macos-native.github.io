@@ -105,8 +105,11 @@ div.member {
 }
 .profile {
     width: 40%;
+    min-width: 240px;
     margin: 0 2%;
     position: relative;
+    
+    flex-basis: auto;
 }
 .profile h4 {
     font-weight: 400;
