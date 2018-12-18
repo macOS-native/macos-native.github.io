@@ -14,26 +14,35 @@ symposium_02:
     - time: "15:15"
       title: "オープニング"
     - time: "15:30"
-      title: "環境設定の作法 (仮"
+      title: "環境設定の作法"
       presenter:
         name: 1024jp
         avatar: 1024jp
       description: |
-        macOSアプリケーションにおけるお行儀の良い環境設定の作り方、またUserDefaultsの取り回しについてお話しします。
-    - time:
-      title: "未定"
-      presenter:
-        name: tsawada2
-        avatar: tsawada2
-      description: |
-        coming soon.
-    - time:
-      title: "未定"
+        macOSアプリケーションにおけるお行儀の良い環境設定の作り方、また（時間があったら）UserDefaultsの取り回しについてをライブコーディングを交えてお見せします。
+    - time: "16:00"
+      title: "UIScrollViewをAppKitで実装する"
       presenter:
         name: tamadeveloper
         avatar: tamadeveloper
       description: |
+        macOSとiOSのカレンダーアプリを開発するにあたり、AppKitとUIKitの違いで苦労した点をUIScrollView/NSScrollViewを中心にお話します。
+    - time: "16:30"
+      title: "休憩"
+    - time: "16:45"
+      title: "macOSの日本語表記ルールを探る"
+      presenter:
+        name: zumuya
+        avatar: zumuya
+      description: |
         coming soon.
+    - time: "17:15"
+      title: "Macらしいアプリケーションを実現するために —BathyScapheでの事例から—"
+      presenter:
+        name: tsawada2
+        avatar: tsawada2
+      description: |
+        流行りのダークモードから、古参のサービスメニューやAppleScript、大分馴染んできた通知センターや共有ボタン…こういったmacOSの各種機能に積極的に対応することが、アプリの「Macらしさ」に繋がります。５ちゃんねるブラウザ「BathyScaphe」での実装例をご紹介します。
     - time: "17:55"
       title: "解散"
     - time: "18:00"
