@@ -19,7 +19,7 @@ symposium_02:
         name: 1024jp
         avatar: 1024jp
       description: |
-        macOSアプリケーションにおけるお行儀の良い環境設定の作り方、また（時間があったら）UserDefaultsの取り回しについてお話しします。
+        macOSアプリケーションにおけるお行儀の良い環境設定の作り方、また（時間があったら）UserDefaultsの取り回しについてをライブコーディングを交えてお見せします。
     - time: "16:00"
       title: "UIScrollViewをAppKitで実装する"
       presenter:
