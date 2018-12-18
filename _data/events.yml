@@ -35,7 +35,7 @@ symposium_02:
         name: zumuya
         avatar: zumuya
       description: |
-        coming soon.
+        よく見ると規則がある...？ macOSらしい日本語表記のルールを探ります。
     - time: "17:15"
       title: "Macらしいアプリケーションを実現するために —BathyScapheでの事例から—"
       presenter:
