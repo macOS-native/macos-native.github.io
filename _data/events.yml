@@ -32,7 +32,7 @@ symposium_02:
     - time: "16:45"
       title: "macOSの日本語表記ルールを探る"
       presenter:
-        name: zumuya
+        name: ずむ
         avatar: zumuya
       description: |
         よく見ると規則がある...？ macOSらしい日本語表記のルールを探ります。
