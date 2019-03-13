@@ -6,7 +6,7 @@ symposium_02:
     address: 渋谷区渋谷2-22-6 10F
     room: イベントスペース
     web: http://pointedge.work/shibuya/
-  fee: "1,500 円"
+  fee: "1,000 円"
   entry_url: https://macos-native.connpass.com/event/107733/
   timetable:
     - time: "15:00"
@@ -19,7 +19,8 @@ symposium_02:
         name: 1024jp
         avatar: 1024jp
       description: |
-        macOSアプリケーションにおけるお行儀の良い環境設定の作り方、また（時間があったら）UserDefaultsの取り回しについてをライブコーディングを交えてお見せします。
+        macOSアプリケーションにおけるお行儀の良い環境設定の作り方、またUserDefaultsの取り回しについてをライブコーディングを交えてお見せします。
+      slide: https://speakerdeck.com/1024jp/manners-of-preferences-window-on-macos
     - time: "16:00"
       title: "UIScrollViewをAppKitで実装する"
       presenter:
@@ -27,6 +28,7 @@ symposium_02:
         avatar: tamadeveloper
       description: |
         macOSとiOSのカレンダーアプリを開発するにあたり、AppKitとUIKitの違いで苦労した点をUIScrollView/NSScrollViewを中心にお話します。
+      slide: https://speakerdeck.com/tamadeveloper/uiscrollviewwoappkitdeshi-zhuang-suru
     - time: "16:30"
       title: "休憩"
     - time: "16:45"
@@ -36,6 +38,7 @@ symposium_02:
         avatar: zumuya
       description: |
         よく見ると規則がある...？ macOSらしい日本語表記のルールを探ります。
+      slide: https://speakerdeck.com/zumuya/macos-falseri-ben-yu-biao-ji-ruruwotan-ru
     - time: "17:15"
       title: "Macらしいアプリケーションを実現するために —BathyScapheでの事例から—"
       presenter:
@@ -43,6 +46,7 @@ symposium_02:
         avatar: tsawada2
       description: |
         流行りのダークモードから、古参のサービスメニューやAppleScript、大分馴染んできた通知センターや共有ボタン…こういったmacOSの各種機能に積極的に対応することが、アプリの「Macらしさ」に繋がります。５ちゃんねるブラウザ「BathyScaphe」での実装例をご紹介します。
+      slide: https://speakerdeck.com/tsawada2/to-make-mac-like-app
     - time: "17:55"
       title: "解散"
     - time: "18:00"
