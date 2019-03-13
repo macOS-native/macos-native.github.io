@@ -1,3 +1,45 @@
+symposium_03:
+  title: "Symposium #03"
+  date: 2019-03-24 15:15:00+09:00
+  location:
+    name: Creator’s District1002
+    address: 東京都渋谷区渋谷1-17-1 (TOC第2ビル10階)
+    room: 1002号室
+  fee: "1,000 円"
+  entry_url: https://macos-native.connpass.com/event/117998/
+  timetable:
+    - time: "15:15"
+      title: "開場"
+    - time: "15:30"
+      title: "オープニング"
+    - time: "15:45"
+      title: "メニューバーアプリを作る"
+      presenter:
+        name: tamadeveloper
+        avatar: tamadeveloper
+      description: |
+        macOS対応のカレンダーアプリ「FirstSeed Calendar」を開発する際に、メニューバーに常駐するMiniアプリを作りました。その時に苦労した点や、Carbon APIを使って実装した機能などについてお話しします。
+    - time: "16:15"
+      title: "coming soon"
+      presenter:
+        name: piyomaru
+        avatar: piyomaru
+      description: |
+        coming soon
+    - time: "16:45"
+      title: "休憩"
+    - time: "17:05"
+      title: "GNUstepとCocotron"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: |
+        GitHubなどでAppKitのメソッドを検索していると不思議なAppKitの実装コードのようなものを目にすることがないでしょうか。はて、Cocoaはクローズドソースのはずだが…。GNUstepとは、Cocotronとは何なのか。いま一度これらCocoaクローンの正体を紐解いてみましょう。
+    - time: "17:45"
+      title: "解散"
+    - time: "18:00"
+      title: "(🍻)"
+
 symposium_02:
   title: "Symposium #02"
   date: 2018-12-22 15:00:00+09:00
