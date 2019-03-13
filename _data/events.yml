@@ -21,23 +21,23 @@ symposium_03:
         avatar: tamadeveloper
       description: |
         macOS対応のカレンダーアプリ「FirstSeed Calendar」を開発する際に、メニューバーに常駐するMiniアプリを作りました。その時に苦労した点や、Carbon APIを使って実装した機能などについてお話しします。
-    - time: "16:15"
-      title: "coming soon"
+    - time: "16:20"
+      title: "バッチ処理に特化したワークフローUI"
       presenter:
         name: piyomaru
         avatar: piyomaru
       description: |
-        coming soon
-    - time: "16:45"
+        macOS上のGUIアプリケーション同士を連携させ、大量のデータを処理する自動処理ワークフロー。その、一般とは異なるプログラムで蓄積されたノウハウや特徴的なUIをご紹介します。
+    - time: "16:40"
       title: "休憩"
-    - time: "17:05"
+    - time: "17:00"
       title: "GNUstepとCocotron"
       presenter:
         name: 1024jp
         avatar: 1024jp
       description: |
         GitHubなどでAppKitのメソッドを検索していると不思議なAppKitの実装コードのようなものを目にすることがないでしょうか。はて、Cocoaはクローズドソースのはずだが…。GNUstepとは、Cocotronとは何なのか。いま一度これらCocoaクローンの正体を紐解いてみましょう。
-    - time: "17:45"
+    - time: "17:40"
       title: "解散"
     - time: "18:00"
       title: "(🍻)"
