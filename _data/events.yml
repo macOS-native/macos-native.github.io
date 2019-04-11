@@ -25,7 +25,7 @@ symposium_03:
     - time: "16:20"
       title: "バッチ処理に特化したワークフローUI"
       presenter:
-        name: piyomaru
+        name: 長野谷隆昌
         avatar: piyomaru
       description: |
         macOS上のGUIアプリケーション同士を連携させ、大量のデータを処理する自動処理ワークフロー。その、一般とは異なるプログラムで蓄積されたノウハウや特徴的なUIをご紹介します。
