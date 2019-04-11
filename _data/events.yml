@@ -21,7 +21,7 @@ symposium_03:
         avatar: tamadeveloper
       description: |
         macOS対応のカレンダーアプリ「FirstSeed Calendar」を開発する際に、メニューバーに常駐するMiniアプリを作りました。その時に苦労した点や、Carbon APIを使って実装した機能などについてお話しします。
-        slide: https://speakerdeck.com/tamadeveloper/meniyubaapurikai-fa
+      slide: https://speakerdeck.com/tamadeveloper/meniyubaapurikai-fa
     - time: "16:20"
       title: "バッチ処理に特化したワークフローUI"
       presenter:
@@ -38,7 +38,7 @@ symposium_03:
         avatar: 1024jp
       description: |
         GitHubなどでAppKitのメソッドを検索していると不思議なAppKitの実装コードのようなものを目にすることがないでしょうか。はて、Cocoaはクローズドソースのはずだが…。GNUstepとは、Cocotronとは何なのか。いま一度これらCocoaクローンの正体を紐解いてみましょう。
-        slide: https://speakerdeck.com/1024jp/gnustep-and-cocotron
+      slide: https://speakerdeck.com/1024jp/gnustep-and-cocotron
     - time: "17:40"
       title: "解散"
     - time: "18:00"
