@@ -1,3 +1,43 @@
+symposium_04:
+  title: "Symposium #04"
+  date: 2019-07-07 15:15:00+09:00
+  location:
+    name: 選定中
+  fee: "1,500 円"
+  entry_url: https://macos-native.connpass.com/event/127679/
+  timetable:
+    - time: "15:15"
+      title: "開場"
+    - time: "15:30"
+      title: "オープニング"
+    - time: "15:35"
+      title: "under consideration"
+      presenter:
+        name: usagimaru
+        avatar: usagimaru
+    - time: "16:05"
+      title: "未定"
+      description: |
+         登壇募集中
+    - time: "16:25"
+      title: "休憩"
+    - time: "16:40"
+      title: "under consideration"
+      presenter:
+        name: 上野学
+        avatar: manabuueno
+    - time: "17:10"
+      title: "激論! macOS 10.15"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: |
+        何が激論なのかはよくわかりませんが、この時期はすでにWWDCでmacOS 10.15が発表されている頃のはずです。もちろんNDAに関わる部分は話せませんが、公開されている範囲について意見交換をする絶好のタイミングではないでしょうか。この枠は一般的な登壇ではなく、フロアも巻き込んだディスカッション形式とします。
+    - time: "17:50"
+      title: "解散"
+    - time: "18:00"
+      title: "(🍻)"
+
 symposium_03:
   title: "Symposium #03"
   date: 2019-03-24 15:15:00+09:00
