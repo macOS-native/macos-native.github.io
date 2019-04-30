@@ -71,6 +71,14 @@ title: macOS native
 
 
 
+## Discord channel
+
+
+macOS開発の話をするmacOS nativeのDiscordチャンネルがあります。
+
+[macOS native – Discord Channel](https://discord.gg/vuEscgc)
+
+
 ## バックナンバー
 
 {% include event.html event="symposium_03" %}
