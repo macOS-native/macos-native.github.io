@@ -8,7 +8,7 @@ symposium_04:
   timetable:
     - time: "15:10"
       title: "開場"
-    - time: "15:20"
+    - time: "15:25"
       title: "オープニング"
     - time: "15:30"
       title: "under consideration"
@@ -16,10 +16,13 @@ symposium_04:
         name: usagimaru
         avatar: usagimaru
     - time: "16:00"
-      title: "未定"
+      title: "macOSのキーボードイベントを覗いてみよう"
+      presenter:
+        name: 高山扶美彦
+        avatar: tekezo
       description: |
-         登壇募集中
-    - time: "16:25"
+         macOSではアプリでキーボードイベントを処理する方法がいくつか用意されています。それらについて、キーボードリマッパーの開発経験で得た知見を紹介します。キーボード入力って他のアプリから覗き見られたりしないのかな？ といった疑問のきっかけになれば幸いです。
+    - time: "16:30"
       title: "休憩"
     - time: "16:40"
       title: "under consideration"

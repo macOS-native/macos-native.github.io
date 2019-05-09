@@ -18,6 +18,7 @@ title: macOS native
 
 <div class="member">
 {% include profile.html param="usagimaru" %}
+{% include profile.html param="tekezo" %}
 {% include profile.html param="manabuueno" %}
 {% include profile.html param="1024jp" %}
 </div>
