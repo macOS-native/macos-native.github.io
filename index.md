@@ -18,6 +18,7 @@ title: macOS native
 
 <div class="member">
 {% include profile.html param="usagimaru" %}
+{% include profile.html param="tekezo" %}
 {% include profile.html param="manabuueno" %}
 {% include profile.html param="1024jp" %}
 </div>
@@ -69,6 +70,14 @@ title: macOS native
 {% include profile.html param="zumuya" %}
 </div>
 
+
+
+## Discord channel
+
+
+macOS開発の話をするmacOS nativeのDiscordチャンネルがあります。
+
+[macOS native – Discord Channel](https://discord.gg/vuEscgc)
 
 
 ## バックナンバー
