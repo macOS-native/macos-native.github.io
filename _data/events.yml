@@ -11,10 +11,12 @@ symposium_04:
     - time: "15:25"
       title: "オープニング"
     - time: "15:30"
-      title: "under consideration"
+      title: "インターフェイスの“こちら側”のデザイン（仮）"
       presenter:
         name: usagimaru
         avatar: usagimaru
+      description: |
+         UIデザインというとどうしても「画面の見た目のデザイン」と捉えられがちですが、大切なのは“使い手”と画面の向こう側の“オブジェクト”が支障なく対話できることです。macOSのGUIを介したインタラクションにおける入力方法のデザインについて考察します。
     - time: "16:00"
       title: "macOSのキーボードイベントを覗いてみよう"
       presenter:
