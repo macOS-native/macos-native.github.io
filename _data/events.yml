@@ -2,7 +2,10 @@ symposium_04:
   title: "Symposium #04"
   date: 2019-07-07 15:10:00+09:00
   location:
-    name: 選定中
+    name: TIME SHARING 秋葉原
+    address: 東京都千代田区外神田1-15-18
+    web: https://www.instabase.jp/space/1728151425/catalog
+    map: http://maps.apple.com/?t=r&q=東京都千代田区外神田1-15-18&sll=35.41,139.46&z=10
   fee: "1,500 円"
   entry_url: https://macos-native.connpass.com/event/127679/
   timetable:
