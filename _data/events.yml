@@ -30,10 +30,12 @@ symposium_04:
     - time: "16:30"
       title: "休憩"
     - time: "16:40"
-      title: "under consideration"
+      title: "macOS のモードレスネスについて"
       presenter:
         name: 上野学
         avatar: manabuueno
+      description: |
+        初期の HIG からデザイン原則のひとつとして掲げられてきた「モードレスネス」。それは GUI を GUI たらしめる基本思想であり、オブジェクト指向がもたらした道具哲学のコペルニクス的転回である。このセッションでは、モードレスネスの意味と GUI 史における役割、そしてモードレスネスを実現するために macOS に組み込まれた機構について見ていきます。
     - time: "17:10"
       title: "激論! macOS 10.15 Catalina"
       presenter:
