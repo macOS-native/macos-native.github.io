@@ -28,6 +28,7 @@ symposium_04:
         avatar: tekezo
       description: |
          macOSではアプリでキーボードイベントを処理する方法がいくつか用意されています。それらについて、キーボードリマッパーの開発経験で得た知見を紹介します。キーボード入力って他のアプリから覗き見られたりしないのかな？ といった疑問のきっかけになれば幸いです。
+      slide: https://docs.google.com/presentation/d/1nEaiPUduh1vjks0rDVRTcJaEULbSWWh1tVdG2HF_XSU/edit
     - time: "16:30"
       title: "休憩"
     - time: "16:40"
