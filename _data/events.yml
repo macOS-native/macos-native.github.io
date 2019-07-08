@@ -20,6 +20,7 @@ symposium_04:
         avatar: usagimaru
       description: |
          UIデザインというとどうしても「画面の見た目のデザイン」と捉えられがちですが、大切なのは“使い手”と画面の向こう側の“オブジェクト”が支障なく対話できることです。macOSのGUIを介したインタラクションにおける入力方法のデザインについて考察します。
+      slide: https://speakerdeck.com/usagimaru/designing-gui-face-and-face
     - time: "16:00"
       title: "macOSのキーボードイベントを覗いてみよう"
       presenter:
@@ -27,6 +28,7 @@ symposium_04:
         avatar: tekezo
       description: |
          macOSではアプリでキーボードイベントを処理する方法がいくつか用意されています。それらについて、キーボードリマッパーの開発経験で得た知見を紹介します。キーボード入力って他のアプリから覗き見られたりしないのかな？ といった疑問のきっかけになれば幸いです。
+      slide: https://docs.google.com/presentation/d/1nEaiPUduh1vjks0rDVRTcJaEULbSWWh1tVdG2HF_XSU/edit
     - time: "16:30"
       title: "休憩"
     - time: "16:40"
@@ -36,6 +38,7 @@ symposium_04:
         avatar: manabuueno
       description: |
         初期の HIG からデザイン原則のひとつとして掲げられてきた「モードレスネス」。それは GUI を GUI たらしめる基本思想であり、オブジェクト指向がもたらした道具哲学のコペルニクス的転回である。このセッションでは、モードレスネスの意味と GUI 史における役割、そしてモードレスネスを実現するために macOS に組み込まれた機構について見ていきます。
+      slide: https://speakerdeck.com/manabuueno/modelessness
     - time: "17:10"
       title: "激論! macOS 10.15 Catalina"
       presenter:
