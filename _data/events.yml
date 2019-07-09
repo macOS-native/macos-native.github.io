@@ -1,3 +1,37 @@
+symposium_05:
+  title: "Symposium #05"
+  date: 2019-09-08 15:10:00+09:00
+  location:
+    name: 東京23区内
+  fee: "1,500 円"
+  entry_url: https://macos-native.connpass.com/event/138153/
+  timetable:
+    - time: "15:10"
+      title: "開場"
+    - time: "15:25"
+      title: "オープニング"
+    - time: "15:30"
+      title: "未定"
+      description: |
+         登壇募集中
+    - time: "16:10"
+      title: "休憩"
+    - time: "16:30"
+      title: "UIテストについて (仮"
+      presenter:
+        name: HIRAI Hiroaki
+        avatar: HIRAI_Hiroaki
+    - time: "17:00"
+      title: "NSTextViewとそのマルチカーソル実装"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: 2019年2月、CotEditorにマルチカーソル入力が実装されました。NSTextViewサブクラスのエディタとしては（おそらく）世界初のまともなマルチカーソル入力がいかにして実現しえたのか、そのキーポイントと困難を、NSTextViewの根幹から解説します。
+    - time: "17:50"
+      title: "解散"
+    - time: "18:00"
+      title: "(🍻)"
+
 symposium_04:
   title: "Symposium #04"
   date: 2019-07-07 15:10:00+09:00

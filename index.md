@@ -12,14 +12,12 @@ title: macOS native
 
 ## イベント
 
-{% include event.html event="symposium_04" entry_link=true %}
+{% include event.html event="symposium_05" entry_link=true %}
 
 ### 登壇者
 
 <div class="member">
-{% include profile.html param="usagimaru" %}
-{% include profile.html param="tekezo" %}
-{% include profile.html param="manabuueno" %}
+{% include profile.html param="HIRAI_Hiroaki" %}
 {% include profile.html param="1024jp" %}
 </div>
 
@@ -81,6 +79,8 @@ macOS開発の話をするmacOS nativeのDiscordチャンネルがあります�
 
 
 ## バックナンバー
+
+{% include event.html event="symposium_04" %}
 
 {% include event.html event="symposium_03" %}
 
