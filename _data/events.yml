@@ -22,11 +22,11 @@ symposium_05:
         name: HIRAI Hiroaki
         avatar: HIRAI_Hiroaki
     - time: "17:00"
-      title: "NSTextViewとそのマルチカーソル実装"
+      title: "NSTextViewとは何なのか"
       presenter:
         name: 1024jp
         avatar: 1024jp
-      description: 2019年2月、CotEditorにマルチカーソル入力が実装されました。NSTextViewサブクラスのエディタとしては（おそらく）世界初のまともなマルチカーソル入力がいかにして実現しえたのか、そのキーポイントと困難を、NSTextViewの根幹から解説します。
+      description: AppKitにおいてテキストを表示するビューとして不動の地位を誇るNSTextView。日常的に使う反面、どこかミステリアスな雰囲気があり謎に包まれていますよね。どんな性格なの？ 年齢は？ 出身地は？ 調べてみました。
     - time: "17:50"
       title: "解散"
     - time: "18:00"
