@@ -1,8 +1,11 @@
 symposium_05:
   title: "Symposium #05"
-  date: 2019-09-08 15:10:00+09:00
+  date: 2019-09-08 15:00:00+09:00
   location:
-    name: 東京23区内
+    name: TIME SHARING 四谷
+    address: 東京都新宿区四谷3-9
+    web: https://www.instabase.jp/space/7421420223/catalog
+    map: http://maps.apple.com/?t=r&q=東京都新宿区四谷3-9&sll=35.41,139.43&z=10
   fee: "1,500 円"
   entry_url: https://macos-native.connpass.com/event/138153/
   timetable:
