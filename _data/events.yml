@@ -9,27 +9,35 @@ symposium_05:
   fee: "1,500 円"
   entry_url: https://macos-native.connpass.com/event/138153/
   timetable:
-    - time: "15:10"
+    - time: "14:30"
       title: "開場"
-    - time: "15:25"
+    - time: "15:00"
       title: "オープニング"
-    - time: "15:30"
-      title: "未定"
-      description: |
-         登壇募集中
-    - time: "16:10"
-      title: "休憩"
-    - time: "16:30"
+    - time: "15:10"
       title: "UIテストについて (仮"
       presenter:
         name: HIRAI Hiroaki
         avatar: HIRAI_Hiroaki
-    - time: "17:00"
+    - time: "15:40"
       title: "NSTextViewとは何なのか"
       presenter:
         name: 1024jp
         avatar: 1024jp
       description: AppKitにおいてテキストを表示するビューとして不動の地位を誇るNSTextView。日常的に使う反面、どこかミステリアスな雰囲気があり謎に包まれていますよね。どんな性格なの？ 年齢は？ 出身地は？ 調べてみました。
+    - time: "16:30"
+      title: "休憩"
+    - time: "16:45"
+      title: "文字とPDFとPDFKit"
+      presenter:
+        name: motooka
+        avatar: motooka
+      description: |
+         文字情報がPDFファイルにどのように格納されているのか、そしてそれをPDFKitを介して眺めたときにどのように見えるのか、お話ししたいと思います。
+    - time: "17:10"
+      title: "–"
+      presenter:
+        name: Yoshimasa Niwa
+        avatar: niw
     - time: "17:50"
       title: "解散"
     - time: "18:00"
