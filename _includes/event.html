@@ -36,8 +36,17 @@
     {% endif %}
     
     {% if item.description %}
-    <p class="description">{{ item.description }}</p>
+    <div class="description">
+    {{ item.description | markdownify  }}
+    </div>
     {% endif %}
+    
+    {% if item.details %}
+    <details class="description"><summary>more</summary>
+    {{ item.details | markdownify  }}
+    </details>
+    {% endif %}
+    
     
     {% if item.slide %}
     <a href="{{ item.slide }}" rel="external">slide</a>

@@ -7,7 +7,8 @@ body {
 }
 
 a:link,
-a:visited {
+a:visited,
+details summary {
     text-decoration: none;
     color: hsl(192, 90%, 40%);
 }
@@ -208,9 +209,11 @@ table.timetable td:first-child {
     font-weight: 300;
     padding-right: 1em;
 }
-table.timetable p.description {
+table.timetable .description {
     font-size: 90%;
     text-indent: 1em;
+}
+table.timetable .description > * {
     margin: 0;
 }
 
