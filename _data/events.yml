@@ -34,10 +34,29 @@ symposium_05:
       description: |
          文字情報がPDFファイルにどのように格納されているのか、そしてそれをPDFKitを介して眺めたときにどのように見えるのか、お話ししたいと思います。
     - time: "17:10"
-      title: "–"
+      title: "Getting started with making macOS utility app using private APIs"
       presenter:
-        name: Yoshimasa Niwa
+        name: niw
         avatar: niw
+      description: |
+        While using macOS day to day life, you may feel something is missing, or probably you may find repeating yourself.
+        
+        In this talk, based on the experiences to make a TouchBar utility app HapticKey, we will discuss how to make a macOS utility app stays in the status bar. Also, we will see how to reverse engineering macOS undocumented private APIs to provide utility functionalities.
+      details: |
+        Expected audiences and knowledge:
+        - Those who want to improve their day to day life by themselves.
+        - Intermediate level of Apple platform knowledge.
+        - Beginner level of Objective-C knowledge.
+        
+        The goal of this talk:
+        - Make `NSStatusBar` utility application.
+        - Reverse engineering undocumented private APIs and use it.
+        - Objective-C runtime
+        
+        Following topics are non-goal of this talk:
+        - Basic knowledge about how to use Xcode
+        - Security problems related to reverse engineering.
+        - Swift
     - time: "17:50"
       title: "解散"
     - time: "18:00"
