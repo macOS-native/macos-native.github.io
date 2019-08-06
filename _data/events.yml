@@ -1,32 +1,62 @@
 symposium_05:
   title: "Symposium #05"
-  date: 2019-09-08 15:10:00+09:00
+  date: 2019-09-08 15:00:00+09:00
   location:
-    name: 東京23区内
+    name: TIME SHARING 四谷
+    address: 東京都新宿区四谷3-9
+    web: https://www.instabase.jp/space/7421420223/catalog
+    map: http://maps.apple.com/?t=r&q=東京都新宿区四谷3-9&sll=35.41,139.43&z=10
   fee: "1,500 円"
   entry_url: https://macos-native.connpass.com/event/138153/
   timetable:
-    - time: "15:10"
+    - time: "14:30"
       title: "開場"
-    - time: "15:25"
+    - time: "15:00"
       title: "オープニング"
-    - time: "15:30"
-      title: "未定"
-      description: |
-         登壇募集中
-    - time: "16:10"
-      title: "休憩"
-    - time: "16:30"
+    - time: "15:10"
       title: "UIテストについて (仮"
       presenter:
         name: HIRAI Hiroaki
         avatar: HIRAI_Hiroaki
-    - time: "17:00"
+    - time: "15:40"
       title: "NSTextViewとは何なのか"
       presenter:
         name: 1024jp
         avatar: 1024jp
-      description: AppKitにおいてテキストを表示するビューとして不動の地位を誇るNSTextView。日常的に使う反面、どこかミステリアスな雰囲気があり謎に包まれていますよね。どんな性格なの？ 年齢は？ 出身地は？ 調べてみました。
+      description: AppKitにおいてテキストを表示するビューとして不動の地位を誇るNSTextViewさん。日常的に使う反面、どこかミステリアスな雰囲気で謎に包まれていますよね。どんな性格なの？ 年齢は？ 家族構成は？ 調べてみました。
+    - time: "16:30"
+      title: "休憩"
+    - time: "16:45"
+      title: "文字とPDFとPDFKit"
+      presenter:
+        name: motooka
+        avatar: motooka
+      description: |
+         文字情報がPDFファイルにどのように格納されているのか、そしてそれをPDFKitを介して眺めたときにどのように見えるのか、お話ししたいと思います。
+    - time: "17:10"
+      title: "Getting started with making macOS utility app using private APIs"
+      presenter:
+        name: niw
+        avatar: niw
+      description: |
+        While using macOS day to day life, you may feel something is missing, or probably you may find repeating yourself.
+        
+        In this talk, based on the experiences to make a TouchBar utility app HapticKey, we will discuss how to make a macOS utility app stays in the status bar. Also, we will see how to reverse engineering macOS undocumented private APIs to provide utility functionalities.
+      details: |
+        Expected audiences and knowledge:
+        - Those who want to improve their day to day life by themselves.
+        - Intermediate level of Apple platform knowledge.
+        - Beginner level of Objective-C knowledge.
+        
+        The goal of this talk:
+        - Make `NSStatusBar` utility application.
+        - Reverse engineering undocumented private APIs and use it.
+        - Objective-C runtime
+        
+        Following topics are non-goal of this talk:
+        - Basic knowledge about how to use Xcode
+        - Security problems related to reverse engineering.
+        - Swift
     - time: "17:50"
       title: "解散"
     - time: "18:00"
@@ -55,6 +85,7 @@ symposium_04:
       description: |
          UIデザインというとどうしても「画面の見た目のデザイン」と捉えられがちですが、大切なのは“使い手”と画面の向こう側の“オブジェクト”が支障なく対話できることです。macOSのGUIを介したインタラクションにおける入力方法のデザインについて考察します。
       slide: https://speakerdeck.com/usagimaru/designing-gui-face-and-face
+      speakerdeck: de0c2a9b1dec4ea49350ae0923c8ec00
     - time: "16:00"
       title: "macOSのキーボードイベントを覗いてみよう"
       presenter:
@@ -73,6 +104,7 @@ symposium_04:
       description: |
         初期の HIG からデザイン原則のひとつとして掲げられてきた「モードレスネス」。それは GUI を GUI たらしめる基本思想であり、オブジェクト指向がもたらした道具哲学のコペルニクス的転回である。このセッションでは、モードレスネスの意味と GUI 史における役割、そしてモードレスネスを実現するために macOS に組み込まれた機構について見ていきます。
       slide: https://speakerdeck.com/manabuueno/modelessness
+      speakerdeck: 9dba519cc6e24303888732eebec3b2a9
     - time: "17:10"
       title: "激論! macOS 10.15 Catalina"
       presenter:
@@ -109,6 +141,7 @@ symposium_03:
       description: |
         macOS対応のカレンダーアプリ「FirstSeed Calendar」を開発する際に、メニューバーに常駐するMiniアプリを作りました。その時に苦労した点や、Carbon APIを使って実装した機能などについてお話しします。
       slide: https://speakerdeck.com/tamadeveloper/meniyubaapurikai-fa
+      speakerdeck: 9b0320a748024b77a20bfb86ac401a12
     - time: "16:20"
       title: "バッチ処理に特化したワークフローUI"
       presenter:
@@ -126,6 +159,7 @@ symposium_03:
       description: |
         GitHubなどでAppKitのメソッドを検索していると不思議なAppKitの実装コードのようなものを目にすることがないでしょうか。はて、Cocoaはクローズドソースのはずだが…。GNUstepとは、Cocotronとは何なのか。いま一度これらCocoaクローンの正体を紐解いてみましょう。
       slide: https://speakerdeck.com/1024jp/gnustep-and-cocotron
+      speakerdeck: 6747ce17073d4286a48b54e2bc0f7835
     - time: "17:40"
       title: "解散"
     - time: "18:00"
@@ -154,6 +188,7 @@ symposium_02:
       description: |
         macOSアプリケーションにおけるお行儀の良い環境設定の作り方、またUserDefaultsの取り回しについてをライブコーディングを交えてお見せします。
       slide: https://speakerdeck.com/1024jp/manners-of-preferences-window-on-macos
+      speakerdeck: 3e90ad671e464c38b908f11cacab7b48
     - time: "16:00"
       title: "UIScrollViewをAppKitで実装する"
       presenter:
@@ -162,6 +197,7 @@ symposium_02:
       description: |
         macOSとiOSのカレンダーアプリを開発するにあたり、AppKitとUIKitの違いで苦労した点をUIScrollView/NSScrollViewを中心にお話します。
       slide: https://speakerdeck.com/tamadeveloper/uiscrollviewwoappkitdeshi-zhuang-suru
+      speakerdeck: bb640150043a409f9f091504be3541ae
     - time: "16:30"
       title: "休憩"
     - time: "16:45"
@@ -172,6 +208,7 @@ symposium_02:
       description: |
         よく見ると規則がある...？ macOSらしい日本語表記のルールを探ります。
       slide: https://speakerdeck.com/zumuya/macos-falseri-ben-yu-biao-ji-ruruwotan-ru
+      speakerdeck: 9038604642514f008279d051104370fd
     - time: "17:15"
       title: "Macらしいアプリケーションを実現するために —BathyScapheでの事例から—"
       presenter:
@@ -180,6 +217,7 @@ symposium_02:
       description: |
         流行りのダークモードから、古参のサービスメニューやAppleScript、大分馴染んできた通知センターや共有ボタン…こういったmacOSの各種機能に積極的に対応することが、アプリの「Macらしさ」に繋がります。５ちゃんねるブラウザ「BathyScaphe」での実装例をご紹介します。
       slide: https://speakerdeck.com/tsawada2/to-make-mac-like-app
+      speakerdeck: 30a45e641a09404f9ed7aac262d850df
     - time: "17:55"
       title: "解散"
     - time: "18:00"
@@ -208,6 +246,7 @@ symposium_01:
       description: |
         macOSとiOSを比較しながら、Macのインターフェイスを介して起こるインタラクションについて考察します。
       slide: https://speakerdeck.com/usagimaru/designing-desktop-interactions
+      speakerdeck: 624b0b7bd68c4787b4f7d2836a984a2d
     - time: "19:15"
       title: "App Icon –デザインと観察"
       presenter:
@@ -216,6 +255,7 @@ symposium_01:
       description: |
         no description.
       slide: https://speakerdeck.com/nobtaka/app-icon-dezaintoguan-cha
+      speakerdeck: 9adac00ef8a7454b92033a985fd7c633
     - time: "19:45"
       title: "休憩"
     - time: "20:00"
@@ -226,6 +266,7 @@ symposium_01:
       description: |
         macOSアプリケーションのウインドウ上部に並ぶツールバーボタンは、macOSらしさを特徴付けています。ツールバーアイコンの歴史的変遷や用途によるデザインの違いを考察しながら、現在の最新システムにおけるネイティブらしいツールバーの実装方法をさぐります。
       slide: https://speakerdeck.com/1024jp/toolbar-icons-on-macos
+      speakerdeck: 2649f681ef2d4abe9a86df4b769d7ad6
     - time: "20:30"
       title: "クロージング"
     - time: "20:45"
