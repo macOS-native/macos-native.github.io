@@ -66,6 +66,7 @@ symposium_04:
       description: |
          UIデザインというとどうしても「画面の見た目のデザイン」と捉えられがちですが、大切なのは“使い手”と画面の向こう側の“オブジェクト”が支障なく対話できることです。macOSのGUIを介したインタラクションにおける入力方法のデザインについて考察します。
       slide: https://speakerdeck.com/usagimaru/designing-gui-face-and-face
+      speakerdeck: de0c2a9b1dec4ea49350ae0923c8ec00
     - time: "16:00"
       title: "macOSのキーボードイベントを覗いてみよう"
       presenter:
@@ -84,6 +85,7 @@ symposium_04:
       description: |
         初期の HIG からデザイン原則のひとつとして掲げられてきた「モードレスネス」。それは GUI を GUI たらしめる基本思想であり、オブジェクト指向がもたらした道具哲学のコペルニクス的転回である。このセッションでは、モードレスネスの意味と GUI 史における役割、そしてモードレスネスを実現するために macOS に組み込まれた機構について見ていきます。
       slide: https://speakerdeck.com/manabuueno/modelessness
+      speakerdeck: 9dba519cc6e24303888732eebec3b2a9
     - time: "17:10"
       title: "激論! macOS 10.15 Catalina"
       presenter:
@@ -120,6 +122,7 @@ symposium_03:
       description: |
         macOS対応のカレンダーアプリ「FirstSeed Calendar」を開発する際に、メニューバーに常駐するMiniアプリを作りました。その時に苦労した点や、Carbon APIを使って実装した機能などについてお話しします。
       slide: https://speakerdeck.com/tamadeveloper/meniyubaapurikai-fa
+      speakerdeck: 9b0320a748024b77a20bfb86ac401a12
     - time: "16:20"
       title: "バッチ処理に特化したワークフローUI"
       presenter:
@@ -137,6 +140,7 @@ symposium_03:
       description: |
         GitHubなどでAppKitのメソッドを検索していると不思議なAppKitの実装コードのようなものを目にすることがないでしょうか。はて、Cocoaはクローズドソースのはずだが…。GNUstepとは、Cocotronとは何なのか。いま一度これらCocoaクローンの正体を紐解いてみましょう。
       slide: https://speakerdeck.com/1024jp/gnustep-and-cocotron
+      speakerdeck: 6747ce17073d4286a48b54e2bc0f7835
     - time: "17:40"
       title: "解散"
     - time: "18:00"
@@ -165,6 +169,7 @@ symposium_02:
       description: |
         macOSアプリケーションにおけるお行儀の良い環境設定の作り方、またUserDefaultsの取り回しについてをライブコーディングを交えてお見せします。
       slide: https://speakerdeck.com/1024jp/manners-of-preferences-window-on-macos
+      speakerdeck: 3e90ad671e464c38b908f11cacab7b48
     - time: "16:00"
       title: "UIScrollViewをAppKitで実装する"
       presenter:
@@ -173,6 +178,7 @@ symposium_02:
       description: |
         macOSとiOSのカレンダーアプリを開発するにあたり、AppKitとUIKitの違いで苦労した点をUIScrollView/NSScrollViewを中心にお話します。
       slide: https://speakerdeck.com/tamadeveloper/uiscrollviewwoappkitdeshi-zhuang-suru
+      speakerdeck: bb640150043a409f9f091504be3541ae
     - time: "16:30"
       title: "休憩"
     - time: "16:45"
@@ -183,6 +189,7 @@ symposium_02:
       description: |
         よく見ると規則がある...？ macOSらしい日本語表記のルールを探ります。
       slide: https://speakerdeck.com/zumuya/macos-falseri-ben-yu-biao-ji-ruruwotan-ru
+      speakerdeck: 9038604642514f008279d051104370fd
     - time: "17:15"
       title: "Macらしいアプリケーションを実現するために —BathyScapheでの事例から—"
       presenter:
@@ -191,6 +198,7 @@ symposium_02:
       description: |
         流行りのダークモードから、古参のサービスメニューやAppleScript、大分馴染んできた通知センターや共有ボタン…こういったmacOSの各種機能に積極的に対応することが、アプリの「Macらしさ」に繋がります。５ちゃんねるブラウザ「BathyScaphe」での実装例をご紹介します。
       slide: https://speakerdeck.com/tsawada2/to-make-mac-like-app
+      speakerdeck: 30a45e641a09404f9ed7aac262d850df
     - time: "17:55"
       title: "解散"
     - time: "18:00"
@@ -219,6 +227,7 @@ symposium_01:
       description: |
         macOSとiOSを比較しながら、Macのインターフェイスを介して起こるインタラクションについて考察します。
       slide: https://speakerdeck.com/usagimaru/designing-desktop-interactions
+      speakerdeck: 624b0b7bd68c4787b4f7d2836a984a2d
     - time: "19:15"
       title: "App Icon –デザインと観察"
       presenter:
@@ -227,6 +236,7 @@ symposium_01:
       description: |
         no description.
       slide: https://speakerdeck.com/nobtaka/app-icon-dezaintoguan-cha
+      speakerdeck: 9adac00ef8a7454b92033a985fd7c633
     - time: "19:45"
       title: "休憩"
     - time: "20:00"
@@ -237,6 +247,7 @@ symposium_01:
       description: |
         macOSアプリケーションのウインドウ上部に並ぶツールバーボタンは、macOSらしさを特徴付けています。ツールバーアイコンの歴史的変遷や用途によるデザインの違いを考察しながら、現在の最新システムにおけるネイティブらしいツールバーの実装方法をさぐります。
       slide: https://speakerdeck.com/1024jp/toolbar-icons-on-macos
+      speakerdeck: 2649f681ef2d4abe9a86df4b769d7ad6
     - time: "20:30"
       title: "クロージング"
     - time: "20:45"
