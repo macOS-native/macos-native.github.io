@@ -211,7 +211,6 @@ table.timetable td:first-child {
 }
 table.timetable .description {
     font-size: 90%;
-    text-indent: 1em;
 }
 table.timetable .description > * {
     margin: 0;
