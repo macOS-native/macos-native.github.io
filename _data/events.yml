@@ -14,10 +14,12 @@ symposium_05:
     - time: "15:00"
       title: "オープニング"
     - time: "15:10"
-      title: "UIテストについて (仮"
+      title: "UIテストについて"
       presenter:
         name: HIRAI Hiroaki
         avatar: HIRAI_Hiroaki
+      description: |
+        長期的にアプリを開発していると、自動化したくなるのが動作確認作業。Xcode 7で追加されたUI Testを、これまでのアップデートやmacOS固有の事情も含めて、ノウハウをまとめてみます。
     - time: "15:40"
       title: "NSTextViewとは何なのか"
       presenter:
@@ -32,7 +34,7 @@ symposium_05:
         name: motooka
         avatar: motooka
       description: |
-         文字情報がPDFファイルにどのように格納されているのか、そしてそれをPDFKitを介して眺めたときにどのように見えるのか、お話ししたいと思います。
+        文字情報がPDFファイルにどのように格納されているのか、そしてそれをPDFKitを介して眺めたときにどのように見えるのか、お話ししたいと思います。
     - time: "17:10"
       title: "Getting started with making macOS utility app using private APIs"
       presenter:
