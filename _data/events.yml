@@ -26,6 +26,7 @@ symposium_05:
         name: 1024jp
         avatar: 1024jp
       description: AppKitにおいてテキストを表示するビューとして不動の地位を誇るNSTextViewさん。日常的に使う反面、どこかミステリアスな雰囲気で謎に包まれていますよね。どんな性格なの？ 年齢は？ 家族構成は？ 調べてみました。
+      slide: https://speakerdeck.com/1024jp/what-is-nstextview
     - time: "16:30"
       title: "休憩"
     - time: "16:45"
@@ -35,6 +36,7 @@ symposium_05:
         avatar: motooka
       description: |
         文字情報がPDFファイルにどのように格納されているのか、そしてそれをPDFKitを介して眺めたときにどのように見えるのか、お話ししたいと思います。
+      slide: https://speakerdeck.com/motooka/wen-zi-topdftopdfkit
     - time: "17:10"
       title: "Getting started with making macOS utility app using private APIs"
       presenter:
@@ -59,6 +61,7 @@ symposium_05:
         - Basic knowledge about how to use Xcode
         - Security problems related to reverse engineering.
         - Swift
+      slide: https://speakerdeck.com/niw/getting-started-with-making-macos-utility-app-using-private-apis
     - time: "17:50"
       title: "解散"
     - time: "18:00"
