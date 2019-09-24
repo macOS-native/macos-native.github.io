@@ -20,6 +20,7 @@ symposium_05:
         avatar: HIRAI_Hiroaki
       description: |
         長期的にアプリを開発していると、自動化したくなるのが動作確認作業。Xcode 7で追加されたUI Testを、これまでのアップデートやmacOS固有の事情も含めて、ノウハウをまとめてみます。
+      slide: https://speakerdeck.com/hirai_hiroaki/about-uitests
     - time: "15:40"
       title: "NSTextViewとは何なのか"
       presenter:
