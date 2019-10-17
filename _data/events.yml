@@ -1,3 +1,49 @@
+symposium_06:
+  title: "Symposium #06"
+  date: 2019-12-21 15:00:00+09:00
+  location:
+    name: TIME SHARING 秋葉原
+    address: 東京都千代田区外神田1-15-18
+    web: https://www.instabase.jp/space/1728151425/catalog
+    map: http://maps.apple.com/?t=r&q=東京都千代田区外神田1-15-18&sll=35.41,139.46&z=10
+  fee: "1,500 円"
+  entry_url: https://macos-native.connpass.com/event/149387/
+  timetable:
+    - time: "14:40"
+      title: "開場"
+    - time: "15:00"
+      title: "オープニング"
+    - time: "15:10"
+      title: "AppleScriptで遊ぶRPCの世界"
+      presenter:
+        name: 長野谷隆昌
+        avatar: piyomaru
+      description: |
+        macOS以外のOSでは気軽に使えないRPC、それを手軽に行う仕組みであるAppleEventとAppleScriptについて、CotEditorを例にご紹介します。
+    - time: ""
+      title: "CATransition で遊ぼう（仮）"
+      presenter:
+        name: ずむ
+        avatar: zumuya
+    - time: ""
+      title: "休憩"
+    - time: ""
+      title: "AppKitでお絵描きをしてみよう"
+      presenter:
+        name: きょめ
+        avatar: kyome
+      description: |
+        AppKitにはNSBezierPathやNSGraphicsContextを用いた図形描画の方法が用意されています。今回は図形描画の基本を押さえながら、注意点や雑学をご紹介いたします。汎用性が高い図形描画の世界に足を踏み入れてみましょう。
+    - time: ""
+      title: "UIKitForMacで高品質なmacOSネイティブアプリケーションを作る —高品質なネイティブアプリとは—"
+      presenter:
+        name: 岸川克己
+        avatar: kishikawakatsumi
+    - time: "17:50"
+      title: "解散"
+    - time: "18:00"
+      title: "(🍻)"
+
 symposium_05:
   title: "Symposium #05"
   date: 2019-09-08 15:00:00+09:00
@@ -45,19 +91,19 @@ symposium_05:
         avatar: niw
       description: |
         While using macOS day to day life, you may feel something is missing, or probably you may find repeating yourself.
-        
+
         In this talk, based on the experiences to make a TouchBar utility app HapticKey, we will discuss how to make a macOS utility app stays in the status bar. Also, we will see how to reverse engineering macOS undocumented private APIs to provide utility functionalities.
       details: |
         Expected audiences and knowledge:
         - Those who want to improve their day to day life by themselves.
         - Intermediate level of Apple platform knowledge.
         - Beginner level of Objective-C knowledge.
-        
+
         The goal of this talk:
         - Make `NSStatusBar` utility application.
         - Reverse engineering undocumented private APIs and use it.
         - Objective-C runtime
-        
+
         Following topics are non-goal of this talk:
         - Basic knowledge about how to use Xcode
         - Security problems related to reverse engineering.

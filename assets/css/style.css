@@ -46,7 +46,7 @@ header h1 {
 main {
     line-height: 1.6;
     padding: 1em 5%;
-    max-width: 720px;
+    max-width: 880px;
     margin: 0 auto;
 }
 main h2 {
@@ -90,7 +90,6 @@ p.tagline {
 p.tagline em {
     font-size: 114%;
     font-weight: 600;
-    padding: 0.1em;
 }
 p.tagline + h2 {
     margin-top: 2em;
@@ -103,11 +102,12 @@ p.tagline + h2 {
 div.member {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .profile {
-    width: 40%;
+    width: 30%;
     min-width: 240px;
-    margin: 0 2%;
+    margin: 0 1.5% 1.5em;
     position: relative;
     
     flex-basis: auto;
@@ -150,6 +150,7 @@ div.member {
     text-indent: 1em;
     text-align: justify;
     line-height: 1.5;
+    margin: 0;
 }
 
 

@@ -77,3 +77,17 @@ niw:
   github: niw
   twitter: niw
   bio: Software engineer working at Twitter, loving cats, flying across the pacific ocean.
+
+kishikawakatsumi:
+  name: 岸川克己
+  github: kishikawakatsumi
+  twitter: k_katsumi
+  web: https://kishikawakatsumi.com
+  bio: iOSアプリケーション開発を10年くらいやっています。趣味でOSSのライブラリを作っています。Macアプリを作るのは素人ですが、Macはとても好きで20年以上使っています。
+
+kyome:
+  name: Kyome
+  github: Kyome22
+  twitter: Kyomesuke
+  web: https://kyome.io
+  bio: macOSを専門とする学生デベロッパー。[RunCat](https://apps.apple.com/jp/app/runcat/id1429033973?mt=12)の開発者。常駐型ユーティリティアプリ開発沼在住。研究開発を通し、データ通信・機械学習・画像処理・キー入力やタッチパッドのハックなど、少しマニアックな分野にて日々格闘中。
