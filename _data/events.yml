@@ -14,10 +14,12 @@ symposium_06:
     - time: "15:00"
       title: "オープニング"
     - time: "15:10"
-      title: ""
+      title: "AppleScriptで遊ぶRPCの世界"
       presenter:
         name: 長野谷隆昌
         avatar: piyomaru
+      description: |
+        macOS以外のOSでは気軽に使えないRPC、それを手軽に行う仕組みであるAppleEventとAppleScriptについて、CotEditorを例にご紹介します。
     - time: ""
       title: "CATransition で遊ぼう（仮）"
       presenter:
