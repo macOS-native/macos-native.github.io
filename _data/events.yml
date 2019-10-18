@@ -30,7 +30,7 @@ symposium_06:
     - time: ""
       title: "AppKitでお絵描きをしてみよう"
       presenter:
-        name: きょめ
+        name: Kyome
         avatar: kyome
       description: |
         AppKitにはNSBezierPathやNSGraphicsContextを用いた図形描画の方法が用意されています。今回は図形描画の基本を押さえながら、注意点や雑学をご紹介いたします。汎用性が高い図形描画の世界に足を踏み入れてみましょう。
