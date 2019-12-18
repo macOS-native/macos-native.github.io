@@ -13,32 +13,40 @@ symposium_06:
       title: "開場"
     - time: "15:00"
       title: "オープニング"
-    - time: "15:10"
+    - time: "15:05"
       title: "AppleScriptで遊ぶRPCの世界"
       presenter:
         name: 長野谷隆昌
         avatar: piyomaru
       description: |
         macOS以外のOSでは気軽に使えないRPC、それを手軽に行う仕組みであるAppleEventとAppleScriptについて、CotEditorを例にご紹介します。
-    - time: ""
-      title: "CATransition で遊ぼう（仮）"
+    - time: "15:40"
+      title: "CATransitionで遊ぼう"
       presenter:
         name: ずむ
         avatar: zumuya
-    - time: ""
+      description: |
+        遷移遷移！ Core Animationの中でもいまいち影の薄い印象のCATransitionですが、macOS限定の機能を使えば活躍の幅が広がるかもしれません。さらには実戦投入にはオススメしない怪しい実験も...
+    - time: "16:20"
       title: "休憩"
-    - time: ""
+    - time: "16:30"
       title: "AppKitでお絵描きをしてみよう"
       presenter:
         name: Kyome
         avatar: kyome
       description: |
         AppKitにはNSBezierPathやNSGraphicsContextを用いた図形描画の方法が用意されています。今回は図形描画の基本を押さえながら、注意点や雑学をご紹介いたします。汎用性が高い図形描画の世界に足を踏み入れてみましょう。
-    - time: ""
-      title: "UIKitForMacで高品質なmacOSネイティブアプリケーションを作る —高品質なネイティブアプリとは—"
+    - time: "17:00"
+      title: "Mac Catalystで高品質なmacOSネイティブアプリケーションを作る —高品質なネイティブアプリとは—"
       presenter:
         name: 岸川克己
         avatar: kishikawakatsumi
+      description: |
+        現在はともかく、将来的にネイティブMacアプリの開発環境はMac Catalystが標準になります。
+        
+        では現段階で高品質なMacアプリを作るにはAppKitを使うべきでしょうか？そもそも高品質なネイティブアプリとはどのようなものでしょうか？
+        
+        高品質なネイティブアプリに求められるものを明らかにし、それはいわゆるネイティブのプログラミング言語がなければ作れないのか、今のMac Catalystはどのくらいの表現力があるのか、などについてお伝えします。
     - time: "17:50"
       title: "解散"
     - time: "18:00"
