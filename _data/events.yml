@@ -1,4 +1,40 @@
 symposium_06:
+  title: "Symposium #07"
+  date: 2022-05-14 14:00:00+09:00
+  location:
+    name: Zoom
+  fee: "free"
+  entry_url: https://macos-native.connpass.com/event/243867/
+  timetable:
+    - time: "13:45"
+      title: "開場"
+    - time: "14:00"
+      title: "オープニング"
+    - time: "14:05"
+      title: "Big Surからの四角いアンコン (仮題"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: |
+        Big Surからアプリケーションアイコンのルールが変わりました。どうするとそれっぽくなるのでしょうか。実例を交えながら考察します。
+    - time: "14:40"
+      title: "未定"
+      description: |
+        登壇募集中
+    - time: "15:20"
+      title: "休憩"
+    - time: "15:30"
+      title: "未定"
+      description: |
+        登壇募集中
+    - time: "16:00"
+      title: "未定"
+      description: |
+        予約済み
+    - time: "16:50"
+      title: "解散"
+
+symposium_06:
   title: "Symposium #06"
   date: 2019-12-21 15:00:00+09:00
   location:
