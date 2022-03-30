@@ -1,4 +1,4 @@
-symposium_06:
+symposium_07:
   title: "Symposium #07"
   date: 2022-05-14 14:00:00+09:00
   location:
@@ -27,11 +27,11 @@ symposium_06:
       title: "未定"
       description: |
         登壇募集中
-    - time: "16:00"
+    - time: "15:50"
       title: "未定"
       description: |
         予約済み
-    - time: "16:50"
+    - time: "16:30"
       title: "解散"
 
 symposium_06:
