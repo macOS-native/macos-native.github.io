@@ -17,8 +17,8 @@ title: macOS native
 ### 登壇者
 
 <div class="member">
-{% include profile.html param="1024jp" %}
 {% include profile.html param="kenichi" %}
+{% include profile.html param="1024jp" %}
 </div>
 
 
