@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en" }}">
-<head>
+<head prefix="og: http://ogp.me/ns#">
     <meta charset="UTF-8">
     <title>{{ site.title }}</title>
+
+    <meta property="og:type"         content="website"/>
+    <meta property="og:url"          content="{{ site.github.url }}"/>
+    <meta property="og:title"        content="{{ site.title }}"/>
+    <meta property="og:description"  content="{{ site.data.metadata.tagline }}"/>
+    <meta property="og:image"        content="assets/img/cover@2x.png"/>
+    <meta property="og:locale"       content="ja_JP"/>
+    <meta property="twitter:card"    content="summary"/>
 
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
