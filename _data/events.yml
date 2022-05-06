@@ -18,23 +18,19 @@ symposium_07:
       description: |
         実際の事例を元にアイコンのメタファーに辿り着くまでに考えていることを軽やかにジョークを交えてお話しします。ファミレスでドリンクバー片手に話すようなカジュアルな内容です。皆様軽い気持ちでお越し下さいませ！
     - time: "14:30"
-      title: "未定"
-      description: |
-        登壇募集中
-    - time: "15:10"
-      title: "休憩"
-    - time: "15:20"
-      title: "未定"
-      description: |
-        登壇募集中
-    - time: "15:40"
-      title: "Big Surからの四角いアイコン (仮題"
+      title: "Big Surからの四角いアイコン"
       presenter:
         name: 1024jp
         avatar: 1024jp
       description: |
         Big Surからアプリケーションアイコンのルールが変わりました。どうするとそれっぽくなるのでしょうか。実例を交えながら考察します。
-    - time: "16:30"
+    - time: "15:10"
+      title: "休憩"
+    - time: "15:20"
+      title: "未定"
+      description: |
+        準備中
+    - time: "16:00"
       title: "解散"
 
 symposium_06:
