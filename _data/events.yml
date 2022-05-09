@@ -27,9 +27,9 @@ symposium_07:
     - time: "15:10"
       title: "休憩"
     - time: "15:20"
-      title: "未定"
+      title: "Mac Catalyst Hacking~macOSでHomeKitアプリを開発するために"
       description: |
-        準備中
+        Mac Catalystは，AppKit/Cocoaが十分に使えないため，自由にアプリが作れません．そこで，Bundleを使ったAPI制限をくぐり抜けるハックを実際に開発したアプリHomeConMenuをベースに紹介します．
     - time: "16:00"
       title: "解散"
 
