@@ -24,6 +24,7 @@ symposium_07:
         avatar: 1024jp
       description: |
         Big Surからアプリケーションアイコンのルールが変わりました。どうするとそれっぽくなるのでしょうか。実例を交えながら考察します。
+      slide: https://speakerdeck.com/1024jp/rounded-rectangle-icons-since-big-sur
     - time: "15:10"
       title: "休憩"
     - time: "15:20"
@@ -33,6 +34,8 @@ symposium_07:
         avatar: sonson
       description: |
         Mac Catalystは，AppKit/Cocoaが十分に使えないため，自由にアプリが作れません．そこで，Bundleを使ったAPI制限をくぐり抜けるハックを実際に開発したアプリHomeConMenuをベースに紹介します．
+      slide: https://www.docswell.com/s/sonson/ZPXD45-2022-05-15-132729
+      sample: https://github.com/sonsongithub/MacCatalystWithAppKit
     - time: "16:00"
       title: "解散"
 
@@ -287,6 +290,7 @@ symposium_02:
         macOSアプリケーションにおけるお行儀の良い環境設定の作り方、またUserDefaultsの取り回しについてをライブコーディングを交えてお見せします。
       slide: https://speakerdeck.com/1024jp/manners-of-preferences-window-on-macos
       speakerdeck: 3e90ad671e464c38b908f11cacab7b48
+      sample: https://github.com/1024jp/Preferences-Demo
     - time: "16:00"
       title: "UIScrollViewをAppKitで実装する"
       presenter:

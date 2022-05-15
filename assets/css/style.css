@@ -216,6 +216,14 @@ table.timetable .description {
 table.timetable .description > * {
     margin: 0;
 }
+table.timetable dt > a[rel="external"] {
+    display: inline-block;
+}
+table.timetable dt > a + a[rel="external"]::before {
+    content: '|';
+    color: hsla(0, 0%, 0%, .6);
+    padding: 0 0.5em;
+}
 
 .register {
     text-align: center;
