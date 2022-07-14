@@ -1,3 +1,37 @@
+- title: "Symposium #08"
+  date: 2022-08-27 14:00:00+09:00
+  location:
+    name: Zoom
+  fee: "free"
+  entry_url: https://macos-native.connpass.com/event/254739/
+  timetable:
+    - time: "13:45"
+      title: "開場"
+    - time: "14:00"
+      title: "オープニング"
+    - time: "14:05"
+      title: "Hacking Xcode Behaviors"
+      presenter:
+        name: Kyome
+        avatar: kyome
+      description: |
+        プロジェクトのBuild PhasesにRun Scriptを追加することでターゲットのビルド時に特定の処理を挟み込むことができますが、Xcode Behaviorsはプロジェクト単位ではなくXcode全般でのイベントに処理を挟み込むことができます。そんなBehaviorsをハックして、ビルドやテストのイベントを別アプリから監視する仕組みを実現するまでの試行錯誤について紹介します。
+    - time: "14:40"
+      title: "未定"
+      description: |
+        登壇募集中
+    - time: "15:20"
+      title: "休憩"
+    - time: "15:30"
+      title: "TextKitでのシンタックスハイライト高速化"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: |
+        テキスト描画の世界は複雑で、何気ない操作もデータ量が大きくなると簡単に処理のボトルネックと化します。しかし、何がそんなに時間を要するのでしょうか。macOS、iOS共にテキスト描画を司るTextKitの癖を読み抜くことで、愚直な実装から高速化していく過程を理屈を追いながら解説します。
+    - time: "16:30"
+      title: "解散"
+
 - title: "Symposium #07"
   date: 2022-05-14 14:00:00+09:00
   location:
