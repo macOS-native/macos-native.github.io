@@ -10,7 +10,7 @@ title: macOS native
 
 
 
-## イベント
+## 次回イベント
 
 {% include event.html event="symposium_07" entry_link=true %}
 
@@ -77,18 +77,3 @@ title: macOS native
 macOS開発の話をするmacOS nativeのDiscordチャンネルがあります。
 
 [macOS native – Discord Channel](https://discord.gg/vuEscgc)
-
-
-## バックナンバー
-
-{% include event.html event="symposium_06" %}
-
-{% include event.html event="symposium_05" %}
-
-{% include event.html event="symposium_04" %}
-
-{% include event.html event="symposium_03" %}
-
-{% include event.html event="symposium_02" %}
-
-{% include event.html event="symposium_01" %}
