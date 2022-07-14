@@ -4,17 +4,6 @@ title: バックナンバー
 group: backnumbers
 ---
 
-
-{% include event.html event="symposium_07" %}
-
-{% include event.html event="symposium_06" %}
-
-{% include event.html event="symposium_05" %}
-
-{% include event.html event="symposium_04" %}
-
-{% include event.html event="symposium_03" %}
-
-{% include event.html event="symposium_02" %}
-
-{% include event.html event="symposium_01" %}
+{% for event in site.data.events offset:1 %}
+{% include event.html event="event" %}
+{% endfor %}

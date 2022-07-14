@@ -1,5 +1,4 @@
-symposium_07:
-  title: "Symposium #07"
+- title: "Symposium #07"
   date: 2022-05-14 14:00:00+09:00
   location:
     name: Zoom
@@ -39,8 +38,7 @@ symposium_07:
     - time: "16:00"
       title: "解散"
 
-symposium_06:
-  title: "Symposium #06"
+- title: "Symposium #06"
   date: 2019-12-21 15:00:00+09:00
   location:
     name: TIME SHARING 秋葉原
@@ -93,8 +91,7 @@ symposium_06:
     - time: "18:00"
       title: "(🍻)"
 
-symposium_05:
-  title: "Symposium #05"
+- title: "Symposium #05"
   date: 2019-09-08 15:00:00+09:00
   location:
     name: TIME SHARING 四谷
@@ -163,8 +160,7 @@ symposium_05:
     - time: "18:00"
       title: "(🍻)"
 
-symposium_04:
-  title: "Symposium #04"
+- title: "Symposium #04"
   date: 2019-07-07 15:10:00+09:00
   location:
     name: TIME SHARING 秋葉原
@@ -218,8 +214,7 @@ symposium_04:
     - time: "18:00"
       title: "(🍻)"
 
-symposium_03:
-  title: "Symposium #03"
+- title: "Symposium #03"
   date: 2019-03-24 15:15:00+09:00
   location:
     name: Creator’s District1002
@@ -266,8 +261,7 @@ symposium_03:
     - time: "18:00"
       title: "(🍻)"
 
-symposium_02:
-  title: "Symposium #02"
+- title: "Symposium #02"
   date: 2018-12-22 15:00:00+09:00
   location:
     name: POINT EDGE ShibuyaBASE
@@ -325,8 +319,7 @@ symposium_02:
     - time: "18:00"
       title: "(🍻)"
 
-symposium_01:
-  title: "Symposium #01"
+- title: "Symposium #01"
   date: 2018-08-29 18:30:00+09:00
   location:
     name: アーツ千代田 3331
