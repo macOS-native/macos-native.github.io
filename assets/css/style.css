@@ -30,12 +30,7 @@ header {
                       0  1px      hsla(  0,   0%, 100%, 0.5);
     
     text-align: center;
-    padding: 32px;
-    margin: 0;
-}
-header h1 {
-    font: 500 64px/1.0 -apple-system, sans-serif;
-    color: inherit;
+    padding: 16px;
     margin: 0;
 }
 
@@ -49,6 +44,13 @@ main {
     max-width: 880px;
     margin: 0 auto;
 }
+main h1 {
+    font-weight: 500;
+    color: hsla(0, 0%, 0%, 0.75);
+    
+    text-align: center;
+    margin-bottom: 0;
+}
 main h2 {
     font-size:160%;
     font-weight: 300;
@@ -56,6 +58,9 @@ main h2 {
     
     text-align: center;
     margin-top: 4em;
+}
+main h1 + h2 {
+    margin-top: 1.5em;
 }
 main h3 {
     color: hsla(0, 0%, 0%, 0.5);

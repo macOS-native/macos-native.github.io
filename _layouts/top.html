@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "en" }}">
 <head prefix="og: http://ogp.me/ns#">
     <meta charset="UTF-8">
-    <title>{{ page.title }} – {{ site.title }}</title>
+    <title>{{ page.title }}</title>
 
     <meta property="og:type"         content="website"/>
     <meta property="og:url"          content="{{ site.github.url }}"/>
@@ -16,15 +16,12 @@
 </head>
 
 <body>
-<header>
-    <a href="/"><img src="assets/img/logo@2x.png" width="256" title="{{ site.title }}"></a>
+<header class="top">
+    <h1><img src="assets/img/logo@2x.png" width="512" title="{{ site.title }}"></h1>
 </header>
 
 
 <main>
-<h1>{{ page.title }}</h1>
-
-
 {{ content }}
 </main>
 
