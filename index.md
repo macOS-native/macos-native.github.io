@@ -13,7 +13,9 @@ group: top
 
 ## 次回イベント
 
-{% include event.html event=site.data.events.first entry_link=true %}
+{% for event in site.data.events limit:1 %}
+{% include event.html event=event entry_link=true %}
+{% endfor %}
 
 ### 登壇者
 
