@@ -1,6 +1,7 @@
 ---
 layout: default
 title: バックナンバー
+group: backnumbers
 ---
 
 

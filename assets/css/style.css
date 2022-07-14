@@ -36,6 +36,31 @@ header {
 
 
 
+/* navigation */
+
+nav {
+    margin: 0 2em;
+}
+nav ul {
+    font-size: 120%;
+    font-weight: 300;
+    text-align: right;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li + li:before {
+    content: " | ";
+    color: hsla(0,0%,0%,.1);
+    margin: 0 0.5em;
+}
+nav ul li a:link,
+nav ul li a:visited {
+    color: hsl(0,0%,40%);
+}
+
+
+
 /* main */
 
 main {

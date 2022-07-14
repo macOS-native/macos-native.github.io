@@ -1,0 +1,7 @@
+<nav>
+<ul>{% for item in site.data.navigation %}
+    <li>{% unless page.group contains item.group %}<a href="{{ item.url }}">{% endunless %}
+        {{ item.title }}
+    {% unless page.group contains item.group %}</a>{% endunless %}</li>
+{% endfor %}</ul>
+</nav>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "行動規範（Code of Conduct）"
+group: coc
 ---
 
 

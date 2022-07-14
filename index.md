@@ -1,6 +1,7 @@
 ---
 layout: top
 title: macOS native
+group: top
 ---
 
 *macOS native*は<br>
@@ -12,14 +13,13 @@ title: macOS native
 
 ## 次回イベント
 
-{% include event.html event="symposium_07" entry_link=true %}
+{% include event.html event="symposium_08" entry_link=true %}
 
 ### 登壇者
 
 <div class="member">
-{% include profile.html param="kenichi" %}
+{% include profile.html param="kyome" %}
 {% include profile.html param="1024jp" %}
-{% include profile.html param="sonson" %}
 </div>
 
 
