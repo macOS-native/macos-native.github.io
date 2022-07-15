@@ -58,6 +58,7 @@
       description: |
         Big Surからアプリケーションアイコンのルールが変わりました。どうするとそれっぽくなるのでしょうか。実例を交えながら考察します。
       slide: https://speakerdeck.com/1024jp/rounded-rectangle-icons-since-big-sur
+      speakerdeck: a1f780f66f494b2abd285e50bb5009dc
     - time: "15:10"
       title: "休憩"
     - time: "15:20"
@@ -147,6 +148,7 @@
       description: |
         長期的にアプリを開発していると、自動化したくなるのが動作確認作業。Xcode 7で追加されたUI Testを、これまでのアップデートやmacOS固有の事情も含めて、ノウハウをまとめてみます。
       slide: https://speakerdeck.com/hirai_hiroaki/about-uitests
+      speakerdeck: fdd2b7d8348544e2818b3836bc18ffbc
     - time: "15:40"
       title: "NSTextViewとは何なのか"
       presenter:
@@ -154,6 +156,7 @@
         avatar: 1024jp
       description: AppKitにおいてテキストを表示するビューとして不動の地位を誇るNSTextViewさん。日常的に使う反面、どこかミステリアスな雰囲気で謎に包まれていますよね。どんな性格なの？ 年齢は？ 家族構成は？ 調べてみました。
       slide: https://speakerdeck.com/1024jp/what-is-nstextview
+      speakerdeck: fb6f626eb8144be9a3e19d9dff0a9fe4
     - time: "16:30"
       title: "休憩"
     - time: "16:45"
@@ -164,6 +167,7 @@
       description: |
         文字情報がPDFファイルにどのように格納されているのか、そしてそれをPDFKitを介して眺めたときにどのように見えるのか、お話ししたいと思います。
       slide: https://speakerdeck.com/motooka/wen-zi-topdftopdfkit
+      speakerdeck: 5d4a2070fd9c489db6300d795c4d7f5d
     - time: "17:10"
       title: "Getting started with making macOS utility app using private APIs"
       presenter:
@@ -189,6 +193,7 @@
         - Security problems related to reverse engineering.
         - Swift
       slide: https://speakerdeck.com/niw/getting-started-with-making-macos-utility-app-using-private-apis
+      speakerdeck: 2418ab1701e4431d8a863810e3eb9542
     - time: "17:50"
       title: "解散"
     - time: "18:00"

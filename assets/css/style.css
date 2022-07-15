@@ -246,6 +246,9 @@ table.timetable .description {
 table.timetable .description > * {
     margin: 0;
 }
+table.timetable .slides {
+    margin: 15px 0;
+}
 table.timetable dt > a[rel="external"] {
     display: inline-block;
 }

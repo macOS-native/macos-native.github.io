@@ -48,6 +48,12 @@
     {% endif %}
     
     
+    {% if item.speakerdeck %}
+    <div class="slides">
+        <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/{{ item.speakerdeck }}" title="Speaker Deck" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background-color: rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; -webkit-background-clip: padding-box; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
+    </div>
+    {% endif %}
+    
     {% if item.slide %}
     <a href="{{ item.slide }}" rel="external">slide</a>
     {% endif %}
