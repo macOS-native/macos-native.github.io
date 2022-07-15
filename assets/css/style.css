@@ -186,6 +186,9 @@ div.member {
 
 /* event */
 
+.event + .event {
+    margin-top: 8em;
+}
 .event dl.info {
     display: table;
     margin-left: auto;
