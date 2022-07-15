@@ -69,6 +69,7 @@
       description: |
         Mac Catalystは，AppKit/Cocoaが十分に使えないため，自由にアプリが作れません．そこで，Bundleを使ったAPI制限をくぐり抜けるハックを実際に開発したアプリHomeConMenuをベースに紹介します．
       slide: https://www.docswell.com/s/sonson/ZPXD45-2022-05-15-132729
+      docswell: ZPXD45
       sample: https://github.com/sonsongithub/MacCatalystWithAppKit
     - time: "16:00"
       title: "解散"
