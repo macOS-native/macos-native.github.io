@@ -107,6 +107,7 @@
         avatar: kyome
       description: |
         AppKitにはNSBezierPathやNSGraphicsContextを用いた図形描画の方法が用意されています。今回は図形描画の基本を押さえながら、注意点や雑学をご紹介いたします。汎用性が高い図形描画の世界に足を踏み入れてみましょう。
+      speakerdeck: 6e9cb898e23744be854608d9fd9fbaa8
     - time: "17:00"
       title: "Mac Catalystで高品質なmacOSネイティブアプリケーションを作る —高品質なネイティブアプリとは—"
       presenter:
