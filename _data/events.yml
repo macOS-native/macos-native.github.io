@@ -17,10 +17,12 @@
       description: |
         watchOS, iOS, padOS, そしてmacOSの4つのプラットフォームで動作するアプリを開発するにあたり、主にデータレイヤーとUIレイヤーで苦労したことや工夫した点についてお話します。具体的にはCore Data、CloudKit、SwiftUI、WidgetKitなどについての知見を共有します。またWWDC23で発表されたSwiftDataやCKSyncEngine、SwiftUIの新機能などについても紹介します。
     - time: "15:45"
-      title: "デスクトップappのUIパターン（仮）"
+      title: "デスクトップアプリケーションのUIパターン"
       presenter:
         name: usagimaru
         avatar: usagimaru
+      description: |
+        デスクトップアプリケーションのためのUIデザインをあらためて考えてみましょう。Appleの言う“desktop class”とは何を意味するのか、macOSとiOS/iPadOSのイディオムの違いは何か、デスクトップらしいインタラクション、関連するHIGの解説等を行う予定です。
     - time: "16:25"
       title: "休憩"
     - time: "16:35"
