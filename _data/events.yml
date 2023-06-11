@@ -15,7 +15,7 @@
         name: tamadeveloper
         avatar: tamadeveloper
       description: |
-        watchOS, iOS, padOS, そしてmacOSの4つのプラットフォームで動作するアプリを開発するにあたり、主にデータレイヤーとUIレイヤーで苦労したことや工夫した点についてお話します。具体的にはCore Data、CloudKit、SwiftUI、WidgetKitなどについての知見を共有します。またWWDC23で発表されたSwiftDataやCKSyncEngine、SwiftUIの新機能などについても紹介します。
+        watchOS, iOS, iPadOS, そしてmacOSの4つのプラットフォームで動作するアプリを開発するにあたり、主にデータレイヤーとUIレイヤーで苦労したことや工夫した点についてお話します。具体的にはCore Data、CloudKit、SwiftUI、WidgetKitなどについての知見を共有します。またWWDC23で発表されたSwiftDataやCKSyncEngine、SwiftUIの新機能などについても紹介します。
     - time: "15:45"
       title: "デスクトップアプリケーションのUIパターン"
       presenter:
