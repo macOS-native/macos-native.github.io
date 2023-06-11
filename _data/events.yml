@@ -1,4 +1,45 @@
 - title: "Symposium #08"
+  date: 2023-07-08 15:00:00+09:00
+  location:
+    name: 港区内 (調整中) / Zoom
+  fee: "free"
+  entry_url: https://macos-native.connpass.com/event/286455/
+  timetable:
+    - time: "14:45"
+      title: "開場"
+    - time: "15:00"
+      title: "オープニング"
+    - time: "15:05"
+      title: "WatchからMacまでスケールさせるマルチプラットフォームアプリ開発"
+      presenter:
+        name: tamadeveloper
+        avatar: tamadeveloper
+      description: |
+        watchOS, iOS, padOS, そしてmacOSの4つのプラットフォームで動作するアプリを開発するにあたり、主にデータレイヤーとUIレイヤーで苦労したことや工夫した点についてお話します。具体的にはCore Data、CloudKit、SwiftUI、WidgetKitなどについての知見を共有します。またWWDC23で発表されたSwiftDataやCKSyncEngine、SwiftUIの新機能などについても紹介します。
+    - time: "15:45"
+      title: "デスクトップappのUIパターン（仮）"
+      presenter:
+        name: usagimaru
+        avatar: usagimaru
+    - time: "16:25"
+      title: "休憩"
+    - time: "16:35"
+      title: "macOS 14 Sonoma!"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: |
+        WWDC23で発表になったmacOS 14 Sonomaについて語り合う場です。この枠は一般的な登壇ではなく、フロアも巻き込んだディスカッション形式とします。
+    - time: "17:05"
+      title: "QAセッション with Apple Japan"
+      description: |
+        ゲストのApple Japan Technology Evangelist 武石氏と会場のQAセッションです。
+    - time: "17:50"
+      title: "解散"
+    - time: "18:00"
+      title: "(🍻)"
+
+- title: "Symposium #08"
   date: 2022-08-27 14:00:00+09:00
   location:
     name: Zoom
