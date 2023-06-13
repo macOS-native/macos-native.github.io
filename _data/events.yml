@@ -1,11 +1,13 @@
 - title: "Symposium #09"
   date: 2023-07-08 15:00:00+09:00
   location:
-    name: 東京都港区内 (調整中) / Zoom
+    name: Apple Japan / Zoom
+    address: 東京都港区六本木6-10-1 六本木ヒルズ森タワー
+    map: https://maps.apple.com/?address=6-10-1%20Roppongi,%20Minato,%20Tokyo,%20Japan%20106-0032&auid=4332199426080983867&ll=35.660305,139.729490&lsp=9902&q=Apple%20Japan%20Inc.
   fee: "free"
   entry_url: https://macos-native.connpass.com/event/286455/
   timetable:
-    - time: "14:45"
+    - time: "14:30"
       title: "開場"
     - time: "15:00"
       title: "オープニング"
