@@ -79,4 +79,4 @@ group: top
 
 macOS開発の話をするmacOS nativeのDiscordチャンネルがあります。
 
-[macOS native – Discord Channel](https://discord.gg/vuEscgc)
+[macOS native – Discord Channel](https://discord.gg/Qmdp4A7uhV)
