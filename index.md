@@ -20,7 +20,9 @@ group: top
 ### 登壇者
 
 <div class="member">
-{% include profile.html param="tamadeveloper" %}
+{% include profile.html param="novi_" %}
+{% include profile.html param="Biacco42" %}
+{% include profile.html param="kishikawakatsumi" %}
 {% include profile.html param="usagimaru" %}
 {% include profile.html param="1024jp" %}
 </div>

@@ -1,3 +1,59 @@
+- title: "Symposium #10"
+  date: 2023-11-02 14:00:00+09:00
+  location:
+    name: Apple Japan / Zoom
+    address: 東京都港区六本木6-10-1 六本木ヒルズ森タワー
+    map: https://maps.apple.com/?address=6-10-1%20Roppongi,%20Minato,%20Tokyo,%20Japan%20106-0032&auid=4332199426080983867&ll=35.660305,139.729490&lsp=9902&q=Apple%20Japan%20Inc.
+  fee: "free"
+  entry_url: https://macos-native.connpass.com/event/331842/
+  timetable:
+    - time: "13:30"
+      title: "開場"
+    - time: "14:00"
+      title: "オープニング"
+    - time: "14:05"
+      title: "Macとオーディオ再生"
+      presenter:
+        name: Yusuke Ito
+        avatar: novi_
+      description: |
+        Appleプラットフォームでのオーディオ再生に関することをソフトウェアとハードウェアの両面からお話しします。Swift Concurrencyの話題やCore AudioのAPIにも触れたいと思います。
+    - time: "14:40"
+      title: "macOSでできるリアルタイム動画像処理"
+      presenter:
+        name: Biacco42
+        avatar: Biacco42
+      description: |
+        macOSは強力な画像処理機能を備えたプラットフォームです。本発表では、実際の業務での事例を参考に、macOSにおける動画像処理の全体像を紹介します。入力からリアルタイム処理、出力に至るまでの流れの中で、Core Image、Metal、Video Toolboxなどの主要技術がどのように連携し、効率的な画像処理を実現するかを解説します。macOSには動画像処理に使える多くのFrameworkがありますが、それらの役割と関連性を明確にすることで、macOSならではの高性能な画像処理の知見を共有します。
+    - time: "15:10"
+      title: "休憩"
+    - time: "15:30"
+      title: "FinderっぽいUIを作る"
+      presenter:
+        name: 岸川克己
+        avatar: kishikawakatsumi
+      description: |
+        Macの標準ファイルブラウザであるFindler。日常で一番目にするアプリケーションです。
+        シンプルに見えて多機能で、ほとんどの場所にドラッグ＆ドロップできるなどそっくりの挙動を再現することは意外に難しいです。
+        この講演では、
+        
+        - Big Surスタイルのサイドバーとツールバー
+        - 進む/戻るボタンとスワイプジェスチャ
+        - NSOutlineViewを使ってディレクトリツリーを表現する
+        - Document-based AppではないアプリケーションでWindowをタブ化する
+        - アプリケーション内外からファイルをドラッグ＆ドロップ
+        - 標準のショートカットやジェスチャに対応する
+        
+        など、ドキュメントを読むだけではわからないちょっと複雑な挙動を再現するための実装を解説します。
+    - time: "16:15"
+      title: "PD: 私たちのアウトラインビュー"
+      description: |
+        直前の「FinderっぽいUIを作る」で登壇した岸川さんに同じくNSOutlineViewに翻弄されるmacOS nativeのコアメンバーであるusgimaruと1024jpを加え、それぞれのNSOutlineViewのユースケースや視点を紹介し語り合うパネルディスカッションです。AppKitの中でも特に複雑なUIコンポーネントであるNSOutlineViewの乗りこなし方を探ります。
+    - time: "16:50"
+      title: "解散"
+    - time: "17:00"
+      title: "(🍻)"
+
 - title: "Symposium #09"
   date: 2023-07-08 15:00:00+09:00
   location:

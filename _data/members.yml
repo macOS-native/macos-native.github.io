@@ -82,7 +82,7 @@ kishikawakatsumi:
   github: kishikawakatsumi
   twitter: k_katsumi
   web: https://kishikawakatsumi.com
-  bio: iOSアプリケーション開発を10年くらいやっています。趣味でOSSのライブラリを作っています。Macアプリを作るのは素人ですが、Macはとても好きで20年以上使っています。
+  bio: iOSアプリケーションのプログラミングは17年ほどの経験がありますが、macOSアプリケーションの開発は始めたばかりです。最近ハマっていることはオムライス作りです。
 
 kyome:
   name: Kyome
@@ -102,3 +102,16 @@ sonson:
   twitter: sonson_twit
   web: http://sonson.jp
   bio: 2003年大阪大学大学院基礎工学研究科博士前期課程修了，同年日本電信電話株式会社入社． 2007年株式会社デンソーアイティーラボラトリ入社，現在に至る．コンピュータビジョン，機械学習，モバイルコンピューティングサービスの研究開発に従事．
+
+novi_:
+  name: Yusuke Ito
+  github: novi
+  twitter: novi_
+  bio: Mac, iOSアプリの開発をメインでやっていました。最近はWeb開発(React, TypeScript, AWS)をしながら、[Current Directory](https://audio.current.directory)でオーディオ製品を作っています。
+
+Biacco42:
+  name: Biacco42
+  github: Biacco42
+  twitter: Biacco42
+  web: http://sonson.jp
+  bio: 株式会社Qoncept所属。macOS/iOS/iPadOSのリアルタイム動画像処理やネイティブアプリ開発をSwiftで行っています。型システムやScala等のJVM言語も好き。趣味は自作キーボードで、即売会イベント「キーケット」の運営事務局代表もしています。
