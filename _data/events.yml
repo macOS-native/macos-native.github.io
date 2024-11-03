@@ -18,6 +18,7 @@
         avatar: novi_
       description: |
         Appleプラットフォームでのオーディオ再生に関することをソフトウェアとハードウェアの両面からお話しします。Swift Concurrencyの話題やCore AudioのAPIにも触れたいと思います。
+      speakerdeck: 8cf86e0ef95b41b28d59a3d0447ffabd
     - time: "14:40"
       title: "macOSでできるリアルタイム動画像処理"
       presenter:
@@ -25,6 +26,7 @@
         avatar: Biacco42
       description: |
         macOSは強力な画像処理機能を備えたプラットフォームです。本発表では、実際の業務での事例を参考に、macOSにおける動画像処理の全体像を紹介します。入力からリアルタイム処理、出力に至るまでの流れの中で、Core Image、Metal、Video Toolboxなどの主要技術がどのように連携し、効率的な画像処理を実現するかを解説します。macOSには動画像処理に使える多くのFrameworkがありますが、それらの役割と関連性を明確にすることで、macOSならではの高性能な画像処理の知見を共有します。
+      speakerdeck: 3c69929cdc444c83b025ffcbb12a44ee
     - time: "15:10"
       title: "休憩"
     - time: "15:30"
@@ -45,14 +47,25 @@
         - 標準のショートカットやジェスチャに対応する
         
         など、ドキュメントを読むだけではわからないちょっと複雑な挙動を再現するための実装を解説します。
+      keynote: https://www.icloud.com/keynote/072VjWGnlaxuxwWYybAzOXJ3g
     - time: "16:15"
       title: "PD: 私たちのアウトラインビュー"
       description: |
         直前の「FinderっぽいUIを作る」で登壇した岸川さんに同じくNSOutlineViewに翻弄されるmacOS nativeのコアメンバーであるusgimaruと1024jpを加え、それぞれのNSOutlineViewのユースケースや視点を紹介し語り合うパネルディスカッションです。AppKitの中でも特に複雑なUIコンポーネントであるNSOutlineViewの乗りこなし方を探ります。
-    - time: "16:50"
-      title: "解散"
+      decks:
+        - presenter:
+            name: 1024jp
+            avatar: 1024jp
+          title: Outline View in SwiftUI
+          speakerdeck: efb1ed71f93a493f9078753243853e62
+          sample: https://github.com/1024jp/OutlineApp
+        - presenter:
+            name: usagimaru
+            avatar: usagimaru
+          title: NSOutlineView何もわからん
+          speakerdeck: 8a9ffb6387194c259c4367c5dc4d0700
     - time: "17:00"
-      title: "(🍻)"
+      title: "解散"
 
 - title: "Symposium #09"
   date: 2023-07-08 15:00:00+09:00

@@ -31,7 +31,6 @@
       {{ item.presenter.name }}
     </span>
     {% else %}
-    
     {{ item.title }}
     {% endif %}
     
@@ -40,32 +39,51 @@
     {{ item.description | markdownify  }}
     </div>
     {% endif %}
-    
     {% if item.details %}
     <details class="description"><summary>more</summary>
-    {{ item.details | markdownify  }}
+    {{ item.details | markdownify }}
     </details>
     {% endif %}
     
-    
     {% if item.speakerdeck %}
     <div class="slides">
-        <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/{{ item.speakerdeck }}" title="{{ item.title }} - Speaker Deck" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background-color: rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; -webkit-background-clip: padding-box; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
+        <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/{{ item.speakerdeck }}" title="{{ item.title }} - Speaker Deck" allowfullscreen="true" style="border: 0px; background-color: rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; -webkit-background-clip: padding-box; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
     </div>
     {% endif %}
-    
     {% if item.docswell %}
     <div class="slides">
         <script async class="docswell-embed" src="https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/{{ item.docswell }}/embed" data-aspect="0.5625"></script>
     </div>
     {% endif %}
-    
+    {% if item.keynote %}
+    <div class="slides">
+      <iframe src="{{ item.keynote }}?embed=true" frameborder="0" allowfullscreen="1" scrolling="no"></iframe>
+    </div>
+    {% endif %}
     {% if item.slide %}
     <a href="{{ item.slide }}" rel="external">slide</a>
     {% endif %}
     {% if item.sample %}
     <a href="{{ item.sample }}" rel="external">sample</a>
     {% endif %}
+    
+    {% for deck in item.decks %}
+    <div class="deck">
+    <span>
+      <img class="avatar" src="assets/img/avatars/{{ deck.presenter.avatar }}.png"/>
+      {{ deck.presenter.name }}
+    </span>
+    {% if deck.speakerdeck %}
+    <div class="slides">
+        <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/{{ deck.speakerdeck }}" title="{{ deck.title }} - Speaker Deck" allowfullscreen="true" style="border: 0px; background-color: rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; -webkit-background-clip: padding-box; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
+    </div>
+    {% endif %}
+    {% if deck.sample %}
+    <a href="{{ deck.sample }}" rel="external">sample</a>
+    {% endif %}
+    </div>
+    {% endfor %}
+    
     </td>
   </tr>
   {% endfor %}

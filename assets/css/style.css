@@ -260,6 +260,9 @@ table.timetable dt > a + a[rel="external"]::before {
     color: hsla(0, 0%, 0%, .6);
     padding: 0 0.5em;
 }
+table.timetable div.deck {
+    margin-top: 1em;
+}
 
 .register {
     text-align: center;

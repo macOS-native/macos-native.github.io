@@ -11,10 +11,10 @@ group: top
 
 
 
-## 次回イベント
+## 前回イベント
 
 {% for event in site.data.events limit:1 %}
-{% include event.html event=event entry_link=true %}
+{% include event.html event=event entry_link=false %}
 {% endfor %}
 
 ### 登壇者
