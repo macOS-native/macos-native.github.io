@@ -14,7 +14,7 @@ group: top
 ## 今回イベント
 
 {% for event in site.data.events limit:1 %}
-{% include event.html event=event entry_link=false %}
+{% include event.html event=event entry_link=true %}
 {% endfor %}
 
 <!--### 登壇者
