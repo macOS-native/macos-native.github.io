@@ -12,12 +12,12 @@
     - time: "14:00"
       title: "オープニング"
     - time: "14:05"
-      title: "macOS 26 (仮)のアップデート"
+      title: "次期macOSのアップデート"
       presenter:
         name: 1024jp
         avatar: 1024jp
       description: |
-        WWDC25で発表されるmacOS 26 (仮)の変更点や開発ポイントについて外観をお話しします。Apple JapanのTechエヴァンジェリストからのアナウンスも予定しています。
+        WWDC25で発表される次期macOSの変更点や開発ポイントについて外観をお話しします。Apple JapanのTechエヴァンジェリストからのアナウンスも予定しています。
     - time: "14:40"
       title: "TBD"
       description: |
@@ -25,7 +25,7 @@
     - time: "15:10"
       title: "休憩"
     - time: "15:30"
-      title: "macOS 26(仮)どうよ？"
+      title: "今度のmacOSどうよ？"
       presenter:
         name: macOS nativeコアメンバー（1024jp, ずむ, usagimaru, 貫井伸隆）
       description: |
