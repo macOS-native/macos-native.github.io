@@ -1,3 +1,38 @@
+- title: "Symposium #11"
+  date: 2025-07-12 14:00:00+09:00
+  location:
+    name: Apple Japan / Zoom
+    address: 東京都港区六本木6-10-1 六本木ヒルズ森タワー
+    map: https://maps.apple.com/?address=6-10-1%20Roppongi,%20Minato,%20Tokyo,%20Japan%20106-0032&auid=4332199426080983867&ll=35.660305,139.729490&lsp=9902&q=Apple%20Japan%20Inc.
+  fee: "free"
+  entry_url: https://macos-native.connpass.com/event/358680/
+  timetable:
+    - time: "13:30"
+      title: "開場"
+    - time: "14:00"
+      title: "オープニング"
+    - time: "14:05"
+      title: "macOS 26 (仮)のアップデート"
+      presenter:
+        name: 1024jp
+        avatar: 1024jp
+      description: |
+        WWDC25で発表されるmacOS 26 (仮)の変更点や開発ポイントについて外観をお話しします。Apple JapanのTechエヴァンジェリストからのアナウンスも予定しています。
+    - time: "14:40"
+      title: "TBD"
+      description: |
+        発表枠あります。もし話したい方いらしたら打診ください。
+    - time: "15:10"
+      title: "休憩"
+    - time: "15:30"
+      title: "macOS 26(仮)どうよ？"
+      presenter:
+        name: macOS nativeコアメンバー（1024jp, ずむ, usagimaru, 貫井伸隆）
+      description: |
+        新しいmacOSについて、本macOS nativeのコアメンバーで座談会形式で放談します。
+    - time: "17:00"
+      title: "解散"
+
 - title: "Symposium #10"
   date: 2024-11-02 14:00:00+09:00
   location:

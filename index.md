@@ -11,21 +11,18 @@ group: top
 
 
 
-## 前回イベント
+## 今回イベント
 
 {% for event in site.data.events limit:1 %}
 {% include event.html event=event entry_link=false %}
 {% endfor %}
 
-### 登壇者
+<!--### 登壇者
 
 <div class="member">
-{% include profile.html param="novi_" %}
-{% include profile.html param="Biacco42" %}
-{% include profile.html param="kishikawakatsumi" %}
 {% include profile.html param="usagimaru" %}
 {% include profile.html param="1024jp" %}
-</div>
+</div>-->
 
 
 ## 対象
