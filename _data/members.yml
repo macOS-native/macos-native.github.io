@@ -9,7 +9,8 @@ usagimaru:
   name: usagimaru
   github: usagimaru
   twitter: usagimaruma
-  bio: ソフトウェアデザイナー、macOS / iOS系デベロッパー、漢字Talk時代からのMacintoshユーザー、ネイティブapp信奉者。普段はソフトウェアUIの構造設計を中心にデザインの仕事をしている。
+  web: https://clickandmagic.com
+  bio: 漢字Talk時代から生粋のMacintoshユーザーであったが、2000年代初頭にAquaとCocoaプログラミングに出会ってからは、Appleプラットフォームに根差したネイティブのソフトウェア開発に取り組んでいる。片や、UI、インタラクション、情報アーキテクチャに関わる設計を専門とするアーキテクト寄りのソフトウェアデザイナーでもある。現在は株式会社タイムラボに所属。
 
 nobtaka:
   name: 貫井伸隆
