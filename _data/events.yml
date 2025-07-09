@@ -12,26 +12,35 @@
     - time: "14:00"
       title: "オープニング"
     - time: "14:05"
-      title: "macOS 26のアップデート"
+      title: "What’s New in AppKit"
       presenter:
         name: 1024jp
         avatar: 1024jp
       description: |
-        WWDC25で発表されたmacOS 26の変更点や開発ポイントについて外観をお話しします。Apple Japanのテクノロジーエヴァンジェリストからのアナウンスも予定しています。
-    - time: "14:40"
-      title: "TBD"
+        WWDC25で発表されたmacOS 26の、AppKitでの変更点や開発ポイントについてお話しします。
+    - time: "14:30"
+      title: "macOS 26から使えるApp Intents"
+      presenter:
+        name: Apple Japan technology evangelist
       description: |
-        発表枠あります。もし話したい方いらしたら打診ください。
-    - time: "15:10"
+        Apple Japanのテクノロジーエヴァンジェリストから、macOS 26から使える、Spotlight/Shortcut/Custom Control Centerに関係するApp Intentsなどを紹介（予定）。
+    - time: "14:50"
       title: "休憩"
+    - time: "15:00"
+      title: "TBD"
+      presenter:
+        name: usagimaru
+        avatar: usagimaru
+      description: |
+        macOS 26のUIについて
     - time: "15:30"
       title: "macOS 26どうよ？"
       presenter:
         name: macOS nativeコアメンバー（1024jp, ずむ, usagimaru, 貫井伸隆）
       description: |
         新しいmacOSについて、本macOS nativeのコアメンバーで座談会形式で放談します。
-    - time: "17:00"
-      title: "解散"
+    - time: "16:30"
+      title: "解散 & Mixer（会場）"
 
 - title: "Symposium #10"
   date: 2024-11-02 14:00:00+09:00
