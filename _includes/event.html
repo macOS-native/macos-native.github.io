@@ -27,7 +27,9 @@
     {% if item.presenter %}
     <strong>{{ item.title }}</strong><br>
     <span>
+      {% if item.presenter.avatar %}
       <img class="avatar" src="assets/img/avatars/{{ item.presenter.avatar }}.png"/>
+      {% endif %}
       {{ item.presenter.name }}
     </span>
     {% else %}
