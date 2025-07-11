@@ -19,11 +19,11 @@
       description: |
         WWDC25で発表されたmacOS 26の、AppKitでの変更点や開発ポイントについてお話しします。
     - time: "14:30"
-      title: "What’s new in macOS Tahoe"
+      title: "What’s new in App Service on macOS"
       presenter:
         name: Apple Japan technology evangelist
       description: |
-        Apple Japanのテクノロジーエヴァンジェリストから、macOS 26から使える、Spotlight/Shortcut/Custom Control Centerに関係するApp Intentsなどを紹介（予定）。
+        Apple Japanのテクノロジーエヴァンジェリストから、macOS 26から使える、Spotlight/Shortcut/Custom Control Centerに関係するApp Intentsなどを紹介。
     - time: "14:50"
       title: "休憩"
     - time: "15:00"
