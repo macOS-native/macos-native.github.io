@@ -32,7 +32,7 @@
         name: usagimaru
         avatar: usagimaru
       description: |
-        macOS 26のUIについて
+        OS 26の新しいインターフェイスデザインについて、macOS Tahoeを中心にそのデザイン言語を紐解きながら、現実的にどう向き合っていくと良いのかを探ります。
     - time: "15:30"
       title: "macOS 26どうよ？"
       presenter:
