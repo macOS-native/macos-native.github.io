@@ -19,7 +19,7 @@
       description: |
         WWDC25で発表されたmacOS 26の、AppKitでの変更点や開発ポイントについてお話しします。
     - time: "14:30"
-      title: "macOS 26から使えるApp Intents"
+      title: "What’s new in macOS Tahoe"
       presenter:
         name: Apple Japan technology evangelist
       description: |
