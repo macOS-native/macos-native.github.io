@@ -65,6 +65,13 @@ HIRAI_Hiroaki:
   twitter: HIRAI_Hiroaki
   bio: macOS、iOSなどのアプリ開発者。CodeWarriorの時代から始めて、これまでの仕事の7割くらいが、受託開発のmacOSアプリ。
 
+megabits:
+  name: Megabits
+  github: megabitsenmzq
+  twitter: Megabits_mzq_jp
+  web: https://megabits.xyz
+  bio: n/a
+
 motooka:
   name: motooka
   github: motooka
@@ -83,7 +90,7 @@ kishikawakatsumi:
   github: kishikawakatsumi
   twitter: k_katsumi
   web: https://kishikawakatsumi.com
-  bio: iOSアプリケーションのプログラミングは17年ほどの経験がありますが、macOSアプリケーションの開発は始めたばかりです。最近ハマっていることはオムライス作りです。
+  bio: iOSアプリケーションのプログラミングは19年ほどの経験がありますが、macOSアプリケーションの開発は始めたばかりです。
 
 kyome:
   name: Kyome

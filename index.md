@@ -17,12 +17,12 @@ group: top
 {% include event.html event=event entry_link=true %}
 {% endfor %}
 
-<!--### 登壇者
+### 登壇者
 
 <div class="member">
-{% include profile.html param="usagimaru" %}
-{% include profile.html param="1024jp" %}
-</div>-->
+{% include profile.html param="kishikawakatsumi" %}
+{% include profile.html param="megabits" %}
+</div>
 
 
 ## 対象

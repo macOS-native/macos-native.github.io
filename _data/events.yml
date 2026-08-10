@@ -1,3 +1,40 @@
+- title: "Symposium #12"
+  date: 2026-09-26 14:00:00+09:00
+  location:
+    name: Apple Japan / Zoom
+    address: 東京都港区六本木6-10-1 六本木ヒルズ森タワー
+    map: https://maps.apple.com/?address=6-10-1%20Roppongi,%20Minato,%20Tokyo,%20Japan%20106-0032&auid=4332199426080983867&ll=35.660305,139.729490&lsp=9902&q=Apple%20Japan%20Inc.
+  fee: "free"
+  entry_url: https://luma.com/cpgdyl7l
+  timetable:
+    - time: "13:30"
+      title: "開場"
+    - time: "14:00"
+      title: "オープニング"
+    - time: "14:10"
+      title: "Accessibility APIでテキストの内容、位置、サイズを取得する実装パターン"
+      presenter:
+        name: 岸川克己
+        avatar: kishikawakatsumi
+      description: |
+        Accessibility API（AXUIElement）を使うと、任意のアプリケーションのUI要素をプログラムから読み取り、操作できます。辞書ツールや文章校正ツールは、このAPIで画面に表示されているテキストを取得したり、書き換えたりします。
+        
+        ところがAccessibility APIは抽象度の高いAPIではないので、対象のアプリケーションによって使い方がまったく異なります。たとえばTextEdit.appでは問題なく読み取れたのに、Mail.appでは読み取れない、ということが起こります。
+        
+        今回は対象アプリの実装をいくつかのパターンに分類し、それぞれのパターンでテキストの取得と書き換えを安定して行う方法を解説します。
+    - time: "14:40"
+      title: "TBD"
+      presenter:
+        name: Megabits
+        avatar: megabits
+      description: |
+        調整中
+    - time: "14:40"
+      title: "TBD"
+      description: |
+        募集中
+    - time: "16:30"
+      title: "解散 & Mixer（会場）"
 - title: "Symposium #11"
   date: 2025-07-12 14:00:00+09:00
   location:
