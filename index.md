@@ -22,6 +22,7 @@ group: top
 <div class="member">
 {% include profile.html param="kishikawakatsumi" %}
 {% include profile.html param="megabits" %}
+{% include profile.html param="log5" %}
 </div>
 
 

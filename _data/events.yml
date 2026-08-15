@@ -22,17 +22,24 @@
         ところがAccessibility APIは抽象度の高いAPIではないので、対象のアプリケーションによって使い方がまったく異なります。たとえばTextEdit.appでは問題なく読み取れたのに、Mail.appでは読み取れない、ということが起こります。
         
         今回は対象アプリの実装をいくつかのパターンに分類し、それぞれのパターンでテキストの取得と書き換えを安定して行う方法を解説します。
-    - time: "14:40"
+    - time: "14:50"
       title: "TBD"
       presenter:
         name: Megabits
         avatar: megabits
       description: |
         調整中
-    - time: "14:40"
-      title: "TBD"
+    - time: "15:20"
+      title: "休憩"
+    - time: "15:30"
+      title: "10年欲しかった音楽管理アプリを、AIと一緒に作りはじめた"
+      presenter:
+        name: log5
+        avatar: log5
       description: |
-        募集中
+        10年程度「自分好みの音楽管理アプリが欲しい」と思い続けてきました。既存のアプリでは満足できない。でも、自分でmacOSアプリを作るのはハードルが高い――そんな状況を変えたのが、生成AIやコーディングエージェントでした。人生初のmacOSアプリ開発に挑戦してみると、AIだけで作れる部分と、自分で学ばなければ越えられない壁の両方が見えてきます。今回はその試行錯誤と、今だからこそ感じるmacOSアプリ開発の楽しさを紹介します。
+    - time: "16:10"
+      title: "TBD"
     - time: "16:30"
       title: "解散 & Mixer（会場）"
 - title: "Symposium #11"
