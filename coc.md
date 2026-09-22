@@ -35,7 +35,7 @@ group: coc
 
 ハラスメントには、性別、性的指向、身体障害、体の大きさ、人種、宗教、公共の場での性的画像、意図的な脅迫、ストーキング、撮影や録音の嫌がらせ 、トークの妨害、他のイベントに関する不快な口頭によるコメント、不適切な身体的接触、および望ましくない色気が含まれます。
 
-ただしスピーカーのトークについては、発表者や運営の許可があれば撮影や録画を許容します。撮影には画面キャプチャも含まれます。
+スピーカーのトーク撮影については、都度の運営の案内に従ってください。
 
 ## 行動規範に違反する行動や言動をみかけたとき
 
@@ -43,4 +43,4 @@ group: coc
 
 ## ライセンス
 
-この行動規範は、[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) で公開されているd_date氏の[行動規範（Code of Conduct）](https://date.notion.site/date/Code-of-Conduct-3f84301fc0e649378c1b98b55ac000c3)を利用しています。
+この行動規範は、[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) で公開されているd_date氏の[行動規範（Code of Conduct）](https://date.notion.site/date/Code-of-Conduct-3f84301fc0e649378c1b98b55ac000c3)を一部改変して利用しています。
